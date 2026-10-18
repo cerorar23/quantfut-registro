@@ -1,0 +1,28 @@
+# Registro público de predicciones
+
+Cada fila enlaza con la anterior mediante SHA-256. Alterar una predicción pasada rompe todos los hashes posteriores.
+
+Verificar: `python -m qf.publish.hashchain verify`
+
+| Fecha | Preds | Picks | payload_sha256 | chain_sha256 |
+|---|---|---|---|---|
+| 2026-09-27 | 4 | 0 | `fe4eda693cd2e494…` | `42b68c173a9a43d5…` |
+| 2026-09-30 | 1 | 0 | `c8d0d4e1bc909dfc…` | `f521ed88091021d9…` |
+| 2026-10-01 | 1 | 0 | `d26a74916877acbe…` | `4d0d4e6980cb1b81…` |
+| 2026-10-02 | 7 | 0 | `6156e0a3dcc126c7…` | `020f78d6275925fd…` |
+| 2026-10-03 | 7 | 0 | `f248290c2c57d55a…` | `b69782a62cc3edb9…` |
+| 2026-10-04 | 6 | 0 | `837d4dcbedb8abbe…` | `a136c5eecb82127b…` |
+| 2026-10-05 | 4 | 0 | `158f55d5b67267a2…` | `98a3ba810baef011…` |
+| 2026-10-06 | 1 | 0 | `294e39dac6df48d1…` | `098b05b0f22ff082…` |
+| 2026-10-07 | 6 | 0 | `ec60c674bf4a0df2…` | `d20f49e52a677f57…` |
+| 2026-10-08 | 11 | 0 | `7557e024e6c598ea…` | `7b424a38fc631f08…` |
+| 2026-10-09 | 47 | 0 | `6168ffb090bc02e7…` | `a8d917baebf52689…` |
+| 2026-10-10 | 83 | 0 | `599ad2282f2214f4…` | `0bb7428ba5991d8b…` |
+| 2026-10-11 | 45 | 0 | `efeff3a95205bb87…` | `73a61a770e976c30…` |
+| 2026-10-12 | 15 | 0 | `ca4c34b88b7da25a…` | `c6dd778db2197f73…` |
+| 2026-10-13 | 20 | 0 | `571e83f530501619…` | `13293a0df250f5f7…` |
+| 2026-10-14 | 20 | 0 | `7a48f5ec3f93483d…` | `d96c525e9a6a2623…` |
+| 2026-10-15 | 3 | 0 | `82b06dab040bbe35…` | `361a75f4a8124eb1…` |
+| 2026-10-16 | 11 | 0 | `56a76298c88cd04a…` | `049868f312f290d7…` |
+| 2026-10-17 | 52 | 0 | `c5387e4c6a91ecfc…` | `fc3dabeca8cdc385…` |
+| 2026-10-18 | 34 | 0 | `024485304ae50bb5…` | `9f3cd1f996277877…` |
