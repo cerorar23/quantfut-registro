@@ -27,3 +27,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-17 | 52 | 0 | `c5387e4c6a91ecfc…` | `fc3dabeca8cdc385…` |
 | 2026-10-18 | 34 | 0 | `024485304ae50bb5…` | `9f3cd1f996277877…` |
 | 2026-10-19 | 9 | 0 | `7e7d2c67bd08f9f1…` | `d03e8f2eafa79062…` |
+| 2026-10-20 ar.primera:2627:depriestra-uniondesan:20261018 | 1 | 0 | `9d7632444e980178…` | `d7961fce53189bdb…` |
