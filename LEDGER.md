@@ -32,3 +32,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-20 eu.ucl:2627:liverpool-villarreal:20261020 | 1 | 0 | `7ce5c32ca347e3d2…` | `94683cbcfc313206…` |
 | 2026-10-20 eu.ucl:2627:parissg-barcelona:20261020 | 1 | 0 | `7c6b1d0cfcb2ab16…` | `df6582d85a96a1f6…` |
 | 2026-10-20 eu.ucl:2627:stuttgart-athmadrid:20261020 | 1 | 0 | `993f8e87f535a3c5…` | `bada1dfed270e6f8…` |
+| 2026-10-20 eu.ucl:2627:porto-psveindhove:20261020 | 1 | 0 | `63219f6fb6748762…` | `0c778520951e3a08…` |
