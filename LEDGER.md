@@ -33,3 +33,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-20 eu.ucl:2627:parissg-barcelona:20261020 | 1 | 0 | `7c6b1d0cfcb2ab16…` | `df6582d85a96a1f6…` |
 | 2026-10-20 eu.ucl:2627:stuttgart-athmadrid:20261020 | 1 | 0 | `993f8e87f535a3c5…` | `bada1dfed270e6f8…` |
 | 2026-10-20 eu.ucl:2627:porto-psveindhove:20261020 | 1 | 0 | `63219f6fb6748762…` | `0c778520951e3a08…` |
+| 2026-10-21 mx.liga_mx:2627:guadalajara-necaxa:20261021 | 1 | 0 | `34f61b2baffe6b18…` | `3c4836eb89800c38…` |
