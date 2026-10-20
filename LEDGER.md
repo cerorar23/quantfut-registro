@@ -29,3 +29,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-19 | 9 | 0 | `7e7d2c67bd08f9f1…` | `d03e8f2eafa79062…` |
 | 2026-10-20 ar.primera:2627:depriestra-uniondesan:20261018 | 1 | 0 | `9d7632444e980178…` | `d7961fce53189bdb…` |
 | 2026-10-20 | 8 | 0 | `00733a626d327628…` | `44c7491eff7517c6…` |
+| 2026-10-20 eu.ucl:2627:liverpool-villarreal:20261020 | 1 | 0 | `7ce5c32ca347e3d2…` | `94683cbcfc313206…` |
