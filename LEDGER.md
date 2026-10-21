@@ -38,3 +38,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-21 mx.liga_mx:2627:atleticosan-queretaro:20261021 | 1 | 0 | `a67626b2c854617b…` | `fd306e40307868fc…` |
 | 2026-10-21 mx.liga_mx:2627:tigresuanl-leon:20261021 | 1 | 0 | `69299ba2343027d7…` | `18be3e312d6e323f…` |
 | 2026-10-21 | 11 | 0 | `b048e71f371f2a8b…` | `a11c43ed8ca41dde…` |
+| 2026-10-21 eu.ucl:2627:como-manchesteru:20261021 | 1 | 0 | `a01262fba30cae9b…` | `238bfeed8180d62a…` |
