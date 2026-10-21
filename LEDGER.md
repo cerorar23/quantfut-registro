@@ -43,3 +43,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-21 eu.ucl:2627:bayernmunic-arsenal:20261021 | 1 | 0 | `0b860926e4c3c90b…` | `344c5d1e349c6bb6…` |
 | 2026-10-21 eu.ucl:2627:realmadrid-rbleipzig:20261021 | 1 | 0 | `1ee3ee240e7598f9…` | `6c688289dd593b46…` |
 | 2026-10-21 eu.ucl:2627:betis-feyenoord:20261021 | 1 | 0 | `cf941d11cc9fd379…` | `5e2a49ac6c6e5ccb…` |
+| 2026-10-21 us.mls:2627:cincinnati-dcunited:20261021 | 1 | 0 | `a5bdd1dbf7a19281…` | `efe74fb5b730961e…` |
