@@ -41,3 +41,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-21 eu.ucl:2627:como-manchesteru:20261021 | 1 | 0 | `a01262fba30cae9b…` | `238bfeed8180d62a…` |
 | 2026-10-21 es.laliga:2627:levante-athbilbao:20261021 | 1 | 0 | `a726869b7133dc7c…` | `e7ff2fafb4e84af1…` |
 | 2026-10-21 eu.ucl:2627:bayernmunic-arsenal:20261021 | 1 | 0 | `0b860926e4c3c90b…` | `344c5d1e349c6bb6…` |
+| 2026-10-21 eu.ucl:2627:realmadrid-rbleipzig:20261021 | 1 | 0 | `1ee3ee240e7598f9…` | `6c688289dd593b46…` |
