@@ -37,3 +37,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-21 mx.liga_mx:2627:juarez-atlante:20261021 | 1 | 0 | `6fb3a249e6a095e0…` | `07119d73c0f9d124…` |
 | 2026-10-21 mx.liga_mx:2627:atleticosan-queretaro:20261021 | 1 | 0 | `a67626b2c854617b…` | `fd306e40307868fc…` |
 | 2026-10-21 mx.liga_mx:2627:tigresuanl-leon:20261021 | 1 | 0 | `69299ba2343027d7…` | `18be3e312d6e323f…` |
+| 2026-10-21 | 11 | 0 | `b048e71f371f2a8b…` | `a11c43ed8ca41dde…` |
