@@ -47,3 +47,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-22 mx.liga_mx:2627:toluca-tijuana:20261022 | 1 | 0 | `042cc87fc958e969…` | `dfd6307f82332bf4…` |
 | 2026-10-22 mx.liga_mx:2627:atlas-america:20261022 | 1 | 0 | `e9ec116d687c5b3e…` | `7fe98ff78918ac9e…` |
 | 2026-10-22 mx.liga_mx:2627:puebla-monterrey:20261022 | 1 | 0 | `0963006081fc2875…` | `6cfe5e7cd2fbb4ad…` |
+| 2026-10-22 mx.liga_mx:2627:santoslagun-unampumas:20261022 | 1 | 0 | `58bebd8968adfde8…` | `41c165b7787b8473…` |
