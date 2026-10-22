@@ -45,3 +45,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-21 eu.ucl:2627:betis-feyenoord:20261021 | 1 | 0 | `cf941d11cc9fd379…` | `5e2a49ac6c6e5ccb…` |
 | 2026-10-21 us.mls:2627:cincinnati-dcunited:20261021 | 1 | 0 | `a5bdd1dbf7a19281…` | `efe74fb5b730961e…` |
 | 2026-10-22 mx.liga_mx:2627:toluca-tijuana:20261022 | 1 | 0 | `042cc87fc958e969…` | `dfd6307f82332bf4…` |
+| 2026-10-22 mx.liga_mx:2627:atlas-america:20261022 | 1 | 0 | `e9ec116d687c5b3e…` | `7fe98ff78918ac9e…` |
