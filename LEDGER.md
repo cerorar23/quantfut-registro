@@ -50,3 +50,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-22 mx.liga_mx:2627:santoslagun-unampumas:20261022 | 1 | 0 | `58bebd8968adfde8…` | `41c165b7787b8473…` |
 | 2026-10-22 mx.liga_mx:2627:pachuca-cruzazul:20261022 | 1 | 0 | `22c52c3c66605267…` | `9294296d407293ee…` |
 | 2026-10-22 | 3 | 0 | `9eb82e0df96cfa1c…` | `22d6586a07ab48aa…` |
+| 2026-10-22 eu.uel:2627:juventus-rennes:20261022 | 1 | 0 | `0e3c34d9e250c7bc…` | `05d3a3176365acdf…` |
