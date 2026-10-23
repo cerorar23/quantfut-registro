@@ -53,3 +53,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-22 eu.uel:2627:juventus-rennes:20261022 | 1 | 0 | `0e3c34d9e250c7bc…` | `05d3a3176365acdf…` |
 | 2026-10-22 eu.uel:2627:bournemouth-milan:20261022 | 1 | 0 | `be9c3229d28674b4…` | `84973135bd3df91b…` |
 | 2026-10-22 eu.uel:2627:hoffenheim-lyon:20261022 | 1 | 0 | `aeb487664804526e…` | `0f6acb34876acce7…` |
+| 2026-10-23 | 13 | 0 | `950c08a641c2a6e6…` | `53dfa1083da54434…` |
