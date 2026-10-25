@@ -80,3 +80,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-25 fr.ligue_1:2627:rennes-strasbourg:20261025 | 1 | 0 | `bdd53734a647745a…` | `f9e9654d7a742b9e…` |
 | 2026-10-25 fr.ligue_1:2627:auxerre-lemans:20261025 | 1 | 0 | `f89f590ebc4cc1f2…` | `13100bd48ca2f5f9…` |
 | 2026-10-25 gb.premier_league:2627:sunderland-leeds:20261025 | 1 | 0 | `8ada17ff580d7a86…` | `fbeec78ce7a75a1a…` |
+| 2026-10-25 fr.ligue_1:2627:marseille-lehavre:20261025 | 1 | 0 | `2fe750413bec1b33…` | `9033b9b3e7212925…` |
