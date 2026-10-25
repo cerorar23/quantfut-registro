@@ -78,3 +78,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-25 fr.ligue_1:2627:toulouse-troyes:20261024 | 1 | 0 | `85f41b21dd3d5ab7…` | `13f135558cfd341a…` |
 | 2026-10-25 fr.ligue_1:2627:angers-lorient:20261025 | 1 | 0 | `c00f382eb165af13…` | `8629da915bdf3312…` |
 | 2026-10-25 fr.ligue_1:2627:rennes-strasbourg:20261025 | 1 | 0 | `bdd53734a647745a…` | `f9e9654d7a742b9e…` |
+| 2026-10-25 fr.ligue_1:2627:auxerre-lemans:20261025 | 1 | 0 | `f89f590ebc4cc1f2…` | `13100bd48ca2f5f9…` |
