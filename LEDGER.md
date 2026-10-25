@@ -69,3 +69,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-25 gb.premier_league:2627:manchesteru-bournemouth:20261025 | 1 | 0 | `52e8b049c53a7598…` | `eaa03f1242b8ea83…` |
 | 2026-10-25 gb.premier_league:2627:liverpool-brighton:20261025 | 1 | 0 | `4d1ad3bf06075775…` | `c2628e3813169623…` |
 | 2026-10-25 it.serie_a:2627:atalanta-frosinone:20261025 | 1 | 0 | `698a48aacb4cf43d…` | `a0fa55f85efacb77…` |
+| 2026-10-25 it.serie_a:2627:genoa-venezia:20261025 | 1 | 0 | `66bd4f69c99eedbb…` | `4b68787760ebc665…` |
