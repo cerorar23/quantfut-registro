@@ -57,3 +57,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-24 | 53 | 0 | `7084e38fd136af25…` | `f5e11463e5982412…` |
 | 2026-10-25 us.mls:2627:portlandtim-charlotte:20261025 | 1 | 0 | `7214b6cb3f88c61b…` | `4e123a2dbb19f9f4…` |
 | 2026-10-25 us.mls:2627:sandiego-seattlesoun:20261025 | 1 | 0 | `cfedb562033c0706…` | `64824abcc7c4cb70…` |
+| 2026-10-25 mx.liga_mx:2627:unampumas-tigresuanl:20261025 | 1 | 0 | `3a47c21ba2d15768…` | `f60b95958e65136a…` |
