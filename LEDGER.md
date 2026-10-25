@@ -73,3 +73,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-25 fr.ligue_1:2627:monaco-lille:20261025 | 1 | 0 | `efc2ec7783e29453…` | `e6d6a7d9d40670c2…` |
 | 2026-10-25 de.bundesliga:2627:hoffenheim-leverkusen:20261025 | 1 | 0 | `d83a79ea3f95ef6b…` | `8b49cb5d8c7b56b8…` |
 | 2026-10-25 es.laliga:2627:celta-betis:20261025 | 1 | 0 | `65bdabfd272aa0d0…` | `ca6b62ded7013ba9…` |
+| 2026-10-25 pt.primeira:2627:estoril-moreirense:20261025 | 1 | 0 | `6d1595b4c162fb24…` | `7f24e6ea36cdb094…` |
