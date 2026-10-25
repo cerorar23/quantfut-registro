@@ -86,3 +86,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-25 es.laliga:2627:sociedad-levante:20261025 | 1 | 0 | `1f76d88bf301daa1…` | `908589b3d9886a0a…` |
 | 2026-10-25 pt.primeira:2627:nacional-spbraga:20261025 | 1 | 0 | `62c7302257d73c64…` | `6b814a2299ec9930…` |
 | 2026-10-25 pt.primeira:2627:rioave-famalicao:20261025 | 1 | 0 | `a5fcba6ee158636c…` | `81334f1f24cdeac4…` |
+| 2026-10-25 ar.primera:2627:aldosivi-belgrano:20261025 | 1 | 0 | `012efc635618eeab…` | `bc610677601ecec0…` |
