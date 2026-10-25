@@ -76,3 +76,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-25 pt.primeira:2627:estoril-moreirense:20261025 | 1 | 0 | `6d1595b4c162fb24…` | `7f24e6ea36cdb094…` |
 | 2026-10-25 nl.eredivisie:2627:spartarotte-ajax:20261025 | 1 | 0 | `c5bf132a66b59588…` | `22a8f66a438e6b28…` |
 | 2026-10-25 fr.ligue_1:2627:toulouse-troyes:20261024 | 1 | 0 | `85f41b21dd3d5ab7…` | `13f135558cfd341a…` |
+| 2026-10-25 fr.ligue_1:2627:angers-lorient:20261025 | 1 | 0 | `c00f382eb165af13…` | `8629da915bdf3312…` |
