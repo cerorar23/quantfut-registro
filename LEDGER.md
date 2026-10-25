@@ -64,3 +64,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-25 es.laliga:2627:athbilbao-getafe:20261025 | 1 | 0 | `9d353c6bde133a3e…` | `1a24180176c54ccc…` |
 | 2026-10-25 nl.eredivisie:2627:nijmegen-groningen:20261025 | 1 | 0 | `bf2d836fb5aec4e3…` | `f5c2caec9efbe18d…` |
 | 2026-10-25 nl.eredivisie:2627:psveindhove-feyenoord:20261025 | 1 | 0 | `3c4ab0dc6010da18…` | `96545d8a168e1d30…` |
+| 2026-10-25 gb.premier_league:2627:crystalpala-newcastle:20261025 | 1 | 0 | `831a6ca359ed0fa2…` | `2c1194ed706acbea…` |
