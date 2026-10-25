@@ -87,3 +87,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-25 pt.primeira:2627:nacional-spbraga:20261025 | 1 | 0 | `62c7302257d73c64…` | `6b814a2299ec9930…` |
 | 2026-10-25 pt.primeira:2627:rioave-famalicao:20261025 | 1 | 0 | `a5fcba6ee158636c…` | `81334f1f24cdeac4…` |
 | 2026-10-25 ar.primera:2627:aldosivi-belgrano:20261025 | 1 | 0 | `012efc635618eeab…` | `bc610677601ecec0…` |
+| 2026-10-25 nl.eredivisie:2627:azalkmaar-twente:20261025 | 1 | 0 | `9130be89f47d9402…` | `5c5ae34c63b77cdd…` |
