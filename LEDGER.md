@@ -67,3 +67,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-25 gb.premier_league:2627:crystalpala-newcastle:20261025 | 1 | 0 | `831a6ca359ed0fa2…` | `2c1194ed706acbea…` |
 | 2026-10-25 gb.premier_league:2627:hull-brentford:20261025 | 1 | 0 | `d0776e9deb0217ce…` | `5ca949a2940ca99c…` |
 | 2026-10-25 gb.premier_league:2627:manchesteru-bournemouth:20261025 | 1 | 0 | `52e8b049c53a7598…` | `eaa03f1242b8ea83…` |
+| 2026-10-25 gb.premier_league:2627:liverpool-brighton:20261025 | 1 | 0 | `4d1ad3bf06075775…` | `c2628e3813169623…` |
