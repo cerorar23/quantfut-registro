@@ -99,3 +99,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-26 us.mls:2627:losangeles-losangeles:20261026 | 1 | 0 | `09162d68e3bb3fad…` | `7568263bf02d3888…` |
 | 2026-10-26 mx.liga_mx:2627:america-pachuca:20261025 | 1 | 0 | `12aeea06f53779ed…` | `614eb60b563a9999…` |
 | 2026-10-26 mx.liga_mx:2627:queretaro-cruzazul:20261026 | 1 | 0 | `c6df9f2791845b23…` | `7e5d4cb1fd233277…` |
+| 2026-10-26 mx.liga_mx:2627:tijuana-santoslagun:20261026 | 1 | 0 | `b1e6b69fdab5934b…` | `fba50bf29a2ded6b…` |
