@@ -103,3 +103,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-26 | 7 | 0 | `9b9402198f297c8d…` | `33ff710a0ed8c05f…` |
 | 2026-10-26 pt.primeira:2627:santaclara-benfica:20261026 | 1 | 0 | `f2e90f59dee80a36…` | `2ec29593fa33b7ec…` |
 | 2026-10-26 fr.ligue_1:2627:parissg-lyon:20261025 | 1 | 0 | `5025fa66b5a0d563…` | `764e4dc63c5d37ea…` |
+| 2026-10-26 es.laliga:2627:sevilla-osasuna:20261025 | 1 | 0 | `175480ddbef682ec…` | `e29f5720ae4b6b1b…` |
