@@ -101,3 +101,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-26 mx.liga_mx:2627:queretaro-cruzazul:20261026 | 1 | 0 | `c6df9f2791845b23…` | `7e5d4cb1fd233277…` |
 | 2026-10-26 mx.liga_mx:2627:tijuana-santoslagun:20261026 | 1 | 0 | `b1e6b69fdab5934b…` | `fba50bf29a2ded6b…` |
 | 2026-10-26 | 7 | 0 | `9b9402198f297c8d…` | `33ff710a0ed8c05f…` |
+| 2026-10-26 pt.primeira:2627:santaclara-benfica:20261026 | 1 | 0 | `f2e90f59dee80a36…` | `2ec29593fa33b7ec…` |
