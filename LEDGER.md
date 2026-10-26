@@ -95,3 +95,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-25 ar.primera:2627:riverplate-racing:20261025 | 1 | 0 | `c571e4b190fea130…` | `5efb5a4196569a66…` |
 | 2026-10-25 mx.liga_mx:2627:atlas-puebla:20261025 | 1 | 0 | `6947e3aacb232f34…` | `fc881130c8e31daf…` |
 | 2026-10-26 ar.primera:2627:centralcord-velezsarsfi:20261025 | 1 | 0 | `fc8e51949339cb7c…` | `c56208d90ca588f5…` |
+| 2026-10-26 ar.primera:2627:barracascen-estudiantes:20261025 | 1 | 0 | `da3223110c9a9104…` | `31cdcc93696c1537…` |
