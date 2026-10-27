@@ -111,3 +111,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-27 | 4 | 0 | `b8a34c066135e7f1…` | `fa382d6b342e0d59…` |
 | 2026-10-27 it.serie_a:2627:sassuolo-lazio:20261027 | 1 | 0 | `e49bb9cef4a8569d…` | `a23fd02fef7093eb…` |
 | 2026-10-27 it.serie_a:2627:roma-cagliari:20261027 | 1 | 0 | `bfcf1e4110a871be…` | `a5a726b0b07e7375…` |
+| 2026-10-27 it.serie_a:2627:torino-como:20261027 | 1 | 0 | `702997aec9e746ee…` | `20ca44656a82b0fd…` |
