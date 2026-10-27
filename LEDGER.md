@@ -110,3 +110,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-27 ar.primera:2627:instituto-depriestra:20261025 | 1 | 0 | `c26248e089c613a3…` | `a0ab37d6b7b407c1…` |
 | 2026-10-27 | 4 | 0 | `b8a34c066135e7f1…` | `fa382d6b342e0d59…` |
 | 2026-10-27 it.serie_a:2627:sassuolo-lazio:20261027 | 1 | 0 | `e49bb9cef4a8569d…` | `a23fd02fef7093eb…` |
+| 2026-10-27 it.serie_a:2627:roma-cagliari:20261027 | 1 | 0 | `bfcf1e4110a871be…` | `a5a726b0b07e7375…` |
