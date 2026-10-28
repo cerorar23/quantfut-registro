@@ -118,3 +118,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-28 it.serie_a:2627:milan-bologna:20261028 | 1 | 0 | `2ddfdad1990aebc3…` | `2885be91a1fb494b…` |
 | 2026-10-28 it.serie_a:2627:parma-udinese:20261028 | 1 | 0 | `0366099e5b637a97…` | `11dbe1ce3d7a890c…` |
 | 2026-10-28 it.serie_a:2627:monza-napoli:20261028 | 1 | 0 | `99cab7419fe3dc3d…` | `fe7212a16566fafa…` |
+| 2026-10-28 it.serie_a:2627:genoa-juventus:20261028 | 1 | 0 | `70af9b4a75c21643…` | `1a07ba3497100c47…` |
