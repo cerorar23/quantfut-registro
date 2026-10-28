@@ -121,3 +121,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-28 it.serie_a:2627:genoa-juventus:20261028 | 1 | 0 | `70af9b4a75c21643…` | `1a07ba3497100c47…` |
 | 2026-10-28 br.serie_a:2627:santos-palmeiras:20261028 | 1 | 0 | `70cd811af116d38e…` | `1dd93d6741d11eae…` |
 | 2026-10-28 br.serie_a:2627:fluminense-internaciona:20261028 | 1 | 0 | `ef97a24a0df150ce…` | `532096a9e6b2ea30…` |
+| 2026-10-28 br.serie_a:2627:bragantino-chapecoense:20261028 | 1 | 0 | `c7b96959ad216886…` | `9067f79a2d64c46d…` |
