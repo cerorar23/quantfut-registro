@@ -117,3 +117,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-28 it.serie_a:2627:venezia-internaziona:20261028 | 1 | 0 | `5c2448f45b34ca7b…` | `f76a65345f57b066…` |
 | 2026-10-28 it.serie_a:2627:milan-bologna:20261028 | 1 | 0 | `2ddfdad1990aebc3…` | `2885be91a1fb494b…` |
 | 2026-10-28 it.serie_a:2627:parma-udinese:20261028 | 1 | 0 | `0366099e5b637a97…` | `11dbe1ce3d7a890c…` |
+| 2026-10-28 it.serie_a:2627:monza-napoli:20261028 | 1 | 0 | `99cab7419fe3dc3d…` | `fe7212a16566fafa…` |
