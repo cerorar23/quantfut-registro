@@ -127,3 +127,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-28 us.mls:2627:newengland-newyorkred:20261028 | 1 | 0 | `7c0a5c3459ef0c89…` | `3ad083b68a503eca…` |
 | 2026-10-28 us.mls:2627:internaziona-cincinnati:20261028 | 1 | 0 | `589bd0df0ae6d208…` | `2617b03646f1261f…` |
 | 2026-10-28 us.mls:2627:toronto-dcunited:20261028 | 1 | 0 | `6ab95381e9cb4770…` | `1e61c29a89dd21c2…` |
+| 2026-10-29 br.serie_a:2627:bahia-saopaulo:20261029 | 1 | 0 | `40b02d089f25fcf5…` | `97bafdf4070bf9e9…` |
