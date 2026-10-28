@@ -133,3 +133,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-29 us.mls:2627:minnesotaun-sportingkan:20261029 | 1 | 0 | `53995a05b223f14a…` | `3b994711f4411fd4…` |
 | 2026-10-29 br.serie_a:2627:remo-botafogorj:20261029 | 1 | 0 | `92a4fe835243d89c…` | `bc25393bc4efb551…` |
 | 2026-10-29 us.mls:2627:chicagofire-orlandocity:20261029 | 1 | 0 | `929070fff74e156c…` | `ffa7e2abba9d2b0d…` |
+| 2026-10-29 us.mls:2627:stlouiscit-portlandtim:20261029 | 1 | 0 | `f46cb9eb8258c7dc…` | `3bf7150b5e032f5d…` |
