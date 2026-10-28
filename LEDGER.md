@@ -123,3 +123,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-28 br.serie_a:2627:fluminense-internaciona:20261028 | 1 | 0 | `ef97a24a0df150ce…` | `532096a9e6b2ea30…` |
 | 2026-10-28 br.serie_a:2627:bragantino-chapecoense:20261028 | 1 | 0 | `c7b96959ad216886…` | `9067f79a2d64c46d…` |
 | 2026-10-28 us.mls:2627:charlotte-montreal:20261028 | 1 | 0 | `904b073af0db6029…` | `be8064302c5333bd…` |
+| 2026-10-28 us.mls:2627:newyorkcit-atlantaunit:20261028 | 1 | 0 | `90a353861d3de55a…` | `36e8749e3efaa542…` |
