@@ -138,3 +138,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-29 us.mls:2627:sanjoseear-coloradorap:20261029 | 1 | 0 | `21c03dd9533d915e…` | `0605e4271f3d6ab0…` |
 | 2026-10-29 us.mls:2627:seattlesoun-houstondyna:20261029 | 1 | 0 | `222a06b63b7ba984…` | `e1ad3e54bfa72a88…` |
 | 2026-10-29 us.mls:2627:vancouverwh-sandiego:20261029 | 1 | 0 | `6b67224e5de94f2d…` | `c2594445ebb4aa92…` |
+| 2026-10-29 mx.liga_mx:2627:america-tijuana:20261029 | 1 | 0 | `8dea676a5b8d6ff9…` | `43cadaced85c1d9f…` |
