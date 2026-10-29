@@ -141,3 +141,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-29 mx.liga_mx:2627:america-tijuana:20261029 | 1 | 0 | `8dea676a5b8d6ff9…` | `43cadaced85c1d9f…` |
 | 2026-10-29 | 6 | 0 | `69f2b90ae146e502…` | `84aabc9de24af527…` |
 | 2026-10-29 it.serie_a:2627:frosinone-lecce:20261029 | 1 | 0 | `39bd073140b99669…` | `0e1ce1116c0c5f3d…` |
+| 2026-10-29 it.serie_a:2627:fiorentina-atalanta:20261029 | 1 | 0 | `61cca8c1a518c645…` | `835f33ab8dbc01a0…` |
