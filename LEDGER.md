@@ -146,3 +146,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-29 br.serie_a:2627:coritiba-vitoria:20261029 | 1 | 0 | `129f7847c462f496…` | `b53ac26e1b8c08ef…` |
 | 2026-10-29 br.serie_a:2627:vasco-flamengorj:20261029 | 1 | 0 | `0f57f9fbd187fa01…` | `b252fea6f805f9ce…` |
 | 2026-10-30 br.serie_a:2627:gremio-athleticopr:20261030 | 1 | 0 | `523b81aa71d948be…` | `f2410bf67c91b560…` |
+| 2026-10-30 | 14 | 0 | `7332d841ce5351a0…` | `fa79058873dd9a6a…` |
