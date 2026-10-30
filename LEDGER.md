@@ -156,3 +156,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-30 ar.primera:2627:estudiantes-gimnasialp:20261101 | 1 | 0 | `8d897e157e7e5384…` | `7db0852b35a61cca…` |
 | 2026-10-30 ar.primera:2627:huracan-tigre:20261101 | 1 | 0 | `b06f6500cea53620…` | `7dfd4bd8e02b3a25…` |
 | 2026-10-30 br.serie_a:2627:corinthians-mirassol:20261030 | 1 | 0 | `9e03b2f07f6c297c…` | `07e60f9f20906ee8…` |
+| 2026-10-31 ar.primera:2627:sarmientoju-rosariocent:20261101 | 1 | 0 | `e802295f638bbaaf…` | `ca77e72cfd8f9d10…` |
