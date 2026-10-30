@@ -152,3 +152,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-30 de.bundesliga:2627:elversberg-mainz:20261030 | 1 | 0 | `1e4c00a6c1aeee4f…` | `d340ab3b3a4d5b75…` |
 | 2026-10-30 es.laliga:2627:villarreal-espanol:20261030 | 1 | 0 | `12943f547c2c14b0…` | `d975df9fcadb51bf…` |
 | 2026-10-30 fr.ligue_1:2627:lille-lens:20261030 | 1 | 0 | `1fafe5eb2c3ed38c…` | `2a4fbb902b9afc75…` |
+| 2026-10-30 pt.primeira:2627:casapia-splisbon:20261030 | 1 | 0 | `8fb127df358482cd…` | `5d05332d4d585ef2…` |
