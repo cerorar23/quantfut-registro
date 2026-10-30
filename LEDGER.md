@@ -148,3 +148,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-30 br.serie_a:2627:gremio-athleticopr:20261030 | 1 | 0 | `523b81aa71d948be…` | `f2410bf67c91b560…` |
 | 2026-10-30 | 14 | 0 | `7332d841ce5351a0…` | `fa79058873dd9a6a…` |
 | 2026-10-30 fr.ligue_1:2627:nice-rennes:20261031 | 1 | 0 | `b297fa9f290e3661…` | `de67cc7fcd3727a8…` |
+| 2026-10-30 fr.ligue_1:2627:lehavre-parissg:20261030 | 1 | 0 | `7db147c7783d33c3…` | `186910aac6ba6cef…` |
