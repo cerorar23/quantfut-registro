@@ -153,3 +153,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-30 es.laliga:2627:villarreal-espanol:20261030 | 1 | 0 | `12943f547c2c14b0…` | `d975df9fcadb51bf…` |
 | 2026-10-30 fr.ligue_1:2627:lille-lens:20261030 | 1 | 0 | `1fafe5eb2c3ed38c…` | `2a4fbb902b9afc75…` |
 | 2026-10-30 pt.primeira:2627:casapia-splisbon:20261030 | 1 | 0 | `8fb127df358482cd…` | `5d05332d4d585ef2…` |
+| 2026-10-30 ar.primera:2627:estudiantes-gimnasialp:20261101 | 1 | 0 | `8d897e157e7e5384…` | `7db0852b35a61cca…` |
