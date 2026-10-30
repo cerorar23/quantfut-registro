@@ -150,3 +150,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-30 fr.ligue_1:2627:nice-rennes:20261031 | 1 | 0 | `b297fa9f290e3661…` | `de67cc7fcd3727a8…` |
 | 2026-10-30 fr.ligue_1:2627:lehavre-parissg:20261030 | 1 | 0 | `7db147c7783d33c3…` | `186910aac6ba6cef…` |
 | 2026-10-30 de.bundesliga:2627:elversberg-mainz:20261030 | 1 | 0 | `1e4c00a6c1aeee4f…` | `d340ab3b3a4d5b75…` |
+| 2026-10-30 es.laliga:2627:villarreal-espanol:20261030 | 1 | 0 | `12943f547c2c14b0…` | `d975df9fcadb51bf…` |
