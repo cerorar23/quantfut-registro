@@ -162,3 +162,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-31 mx.liga_mx:2627:atleticosan-atlas:20261031 | 1 | 0 | `74886e48cac3d91a…` | `b11fbb4ecf388033…` |
 | 2026-10-31 mx.liga_mx:2627:puebla-unampumas:20261031 | 1 | 0 | `03697a78e0a604e5…` | `e357427375af2b0c…` |
 | 2026-10-31 | 46 | 0 | `f09c8f5d4e9d1509…` | `257d91deb3653d14…` |
+| 2026-10-31 gb.premier_league:2627:chelsea-manchesteru:20261031 | 1 | 0 | `2a8e0078f1318d6d…` | `ce0dbd51e6313e4d…` |
