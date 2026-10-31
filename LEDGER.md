@@ -200,3 +200,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-31 ar.primera:2627:depriestra-tallerescor:20261101 | 1 | 0 | `eb34460c816f93ba…` | `77c4a4e50c83a865…` |
 | 2026-10-31 pt.primeira:2627:porto-estoril:20261031 | 1 | 0 | `a8e829e42a878fbb…` | `9f575bdad1bcf8e1…` |
 | 2026-10-31 us.mls:2627:sanjoseear-realsaltla:20261031 | 1 | 0 | `f98abb8febd6c810…` | `9435df634b77a905…` |
+| 2026-10-31 us.mls:2627:losangeles-austin:20261031 | 1 | 0 | `c4acf68ba2b8c796…` | `057db717fe34bb17…` |
