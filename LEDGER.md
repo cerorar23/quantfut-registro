@@ -165,3 +165,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-31 gb.premier_league:2627:chelsea-manchesteru:20261031 | 1 | 0 | `2a8e0078f1318d6d…` | `ce0dbd51e6313e4d…` |
 | 2026-10-31 es.laliga:2627:levante-athmadrid:20261031 | 1 | 0 | `53a07220cd0c7580…` | `76be13ae02a136cd…` |
 | 2026-10-31 it.serie_a:2627:bologna-monza:20261031 | 1 | 0 | `e14a2e5a4007ecea…` | `90ad6e95c07daa8e…` |
+| 2026-10-31 de.bundesliga:2627:schalke04-rbleipzig:20261031 | 1 | 0 | `3c1e5fe3bf220d10…` | `0b206a72fdcbc36d…` |
