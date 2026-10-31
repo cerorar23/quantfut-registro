@@ -195,3 +195,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-31 it.serie_a:2627:milan-internaziona:20261031 | 1 | 0 | `2be6b55f9ce0304d…` | `8ebbce98d9a626b7…` |
 | 2026-10-31 gb.premier_league:2627:astonvilla-fulham:20261031 | 1 | 0 | `73d02639e367b5e3…` | `27c9db3001fc3596…` |
 | 2026-10-31 nl.eredivisie:2627:cambuur-goaheadeag:20261031 | 1 | 0 | `13410a6cdda81685…` | `5c3310afc575dd49…` |
+| 2026-10-31 nl.eredivisie:2627:ajax-azalkmaar:20261031 | 1 | 0 | `7422e586fa0de94b…` | `d7a532cb2293b996…` |
