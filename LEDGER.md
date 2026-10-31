@@ -159,3 +159,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-31 ar.primera:2627:sarmientoju-rosariocent:20261101 | 1 | 0 | `e802295f638bbaaf…` | `ca77e72cfd8f9d10…` |
 | 2026-10-31 ar.primera:2627:racing-aldosivi:20261101 | 1 | 0 | `b041f6243817de4c…` | `fb65bb6ab3bc761b…` |
 | 2026-10-31 mx.liga_mx:2627:juarez-queretaro:20261031 | 1 | 0 | `13a241bfcc12712e…` | `de432088f184946b…` |
+| 2026-10-31 mx.liga_mx:2627:atleticosan-atlas:20261031 | 1 | 0 | `74886e48cac3d91a…` | `b11fbb4ecf388033…` |
