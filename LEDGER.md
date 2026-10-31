@@ -188,3 +188,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-31 ar.primera:2627:defensayju-independient:20261101 | 1 | 0 | `fa81b880663e3c0e…` | `0731f3c3d287be5c…` |
 | 2026-10-31 us.mls:2627:newyorkcit-montreal:20261031 | 1 | 0 | `4dc1bcb9b375ffa9…` | `5135f43c89e426cd…` |
 | 2026-10-31 us.mls:2627:columbuscre-dcunited:20261031 | 1 | 0 | `d4cc41896fb1e416…` | `1dc50493eb1dcae2…` |
+| 2026-10-31 us.mls:2627:cincinnati-philadelphia:20261031 | 1 | 0 | `7577b775a473bceb…` | `d90b97222b72eb90…` |
