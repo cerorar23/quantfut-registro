@@ -186,3 +186,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-31 nl.eredivisie:2627:heerenveen-nijmegen:20261031 | 1 | 0 | `278919d4faa6a788…` | `3faa5555361e4e53…` |
 | 2026-10-31 nl.eredivisie:2627:psveindhove-willemii:20261031 | 1 | 0 | `cc08b9f4b888798a…` | `9f56c7876db88d07…` |
 | 2026-10-31 ar.primera:2627:defensayju-independient:20261101 | 1 | 0 | `fa81b880663e3c0e…` | `0731f3c3d287be5c…` |
+| 2026-10-31 us.mls:2627:newyorkcit-montreal:20261031 | 1 | 0 | `4dc1bcb9b375ffa9…` | `5135f43c89e426cd…` |
