@@ -167,3 +167,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-31 it.serie_a:2627:bologna-monza:20261031 | 1 | 0 | `e14a2e5a4007ecea…` | `90ad6e95c07daa8e…` |
 | 2026-10-31 de.bundesliga:2627:schalke04-rbleipzig:20261031 | 1 | 0 | `3c1e5fe3bf220d10…` | `0b206a72fdcbc36d…` |
 | 2026-10-31 de.bundesliga:2627:leverkusen-stuttgart:20261031 | 1 | 0 | `0d9fb1b1342f7541…` | `420929260782a2cc…` |
+| 2026-10-31 de.bundesliga:2627:augsburg-freiburg:20261031 | 1 | 0 | `a50ccb77632d6910…` | `8bf6d5cf63698e55…` |
