@@ -185,3 +185,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-31 de.bundesliga:2627:bayernmunic-dortmund:20261031 | 1 | 0 | `05c941a5c127352e…` | `0e86d8567f2e146b…` |
 | 2026-10-31 nl.eredivisie:2627:heerenveen-nijmegen:20261031 | 1 | 0 | `278919d4faa6a788…` | `3faa5555361e4e53…` |
 | 2026-10-31 nl.eredivisie:2627:psveindhove-willemii:20261031 | 1 | 0 | `cc08b9f4b888798a…` | `9f56c7876db88d07…` |
+| 2026-10-31 ar.primera:2627:defensayju-independient:20261101 | 1 | 0 | `fa81b880663e3c0e…` | `0731f3c3d287be5c…` |
