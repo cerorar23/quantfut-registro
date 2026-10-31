@@ -181,3 +181,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-31 us.mls:2627:charlotte-orlandocity:20261031 | 1 | 0 | `a6e9f781070ccb42…` | `0b6e2c44fdf5e520…` |
 | 2026-10-31 it.serie_a:2627:udinese-roma:20261031 | 1 | 0 | `697b8d01633f150f…` | `9f4b51321fa42a6a…` |
 | 2026-10-31 gb.premier_league:2627:tottenham-crystalpala:20261031 | 1 | 0 | `51d7dd49167f0eac…` | `a9b14872eb722288…` |
+| 2026-10-31 es.laliga:2627:betis-malaga:20261031 | 1 | 0 | `aba46524bc887550…` | `f0b0ce3bcf9d823d…` |
