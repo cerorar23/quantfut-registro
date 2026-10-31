@@ -175,3 +175,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-31 gb.premier_league:2627:manchesterc-brighton:20261031 | 1 | 0 | `65a80b50acfcf3e9…` | `701ffeda61efcf6d…` |
 | 2026-10-31 gb.premier_league:2627:brentford-nottmfores:20261031 | 1 | 0 | `49bd3355810ef57b…` | `4bab3fa63913094b…` |
 | 2026-10-31 gb.premier_league:2627:coventry-sunderland:20261031 | 1 | 0 | `69647019c08b0e48…` | `ffa001ea04fe4270…` |
+| 2026-10-31 es.laliga:2627:vallecano-celta:20261031 | 1 | 0 | `40de66772f245655…` | `42df19df9d36889b…` |
