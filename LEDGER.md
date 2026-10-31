@@ -180,3 +180,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-31 pt.primeira:2627:moreirense-estrela:20261031 | 1 | 0 | `82f85c4ff0e7cacc…` | `b6b84d7084813f84…` |
 | 2026-10-31 us.mls:2627:charlotte-orlandocity:20261031 | 1 | 0 | `a6e9f781070ccb42…` | `0b6e2c44fdf5e520…` |
 | 2026-10-31 it.serie_a:2627:udinese-roma:20261031 | 1 | 0 | `697b8d01633f150f…` | `9f4b51321fa42a6a…` |
+| 2026-10-31 gb.premier_league:2627:tottenham-crystalpala:20261031 | 1 | 0 | `51d7dd49167f0eac…` | `a9b14872eb722288…` |
