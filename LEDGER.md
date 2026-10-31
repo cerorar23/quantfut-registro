@@ -197,3 +197,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-31 nl.eredivisie:2627:cambuur-goaheadeag:20261031 | 1 | 0 | `13410a6cdda81685…` | `5c3310afc575dd49…` |
 | 2026-10-31 nl.eredivisie:2627:ajax-azalkmaar:20261031 | 1 | 0 | `7422e586fa0de94b…` | `d7a532cb2293b996…` |
 | 2026-10-31 es.laliga:2627:barcelona-alaves:20261031 | 1 | 0 | `cb5e90e8fe285a56…` | `4f812dbbcbf117b7…` |
+| 2026-10-31 ar.primera:2627:depriestra-tallerescor:20261101 | 1 | 0 | `eb34460c816f93ba…` | `77c4a4e50c83a865…` |
