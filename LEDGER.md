@@ -158,3 +158,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-30 br.serie_a:2627:corinthians-mirassol:20261030 | 1 | 0 | `9e03b2f07f6c297c…` | `07e60f9f20906ee8…` |
 | 2026-10-31 ar.primera:2627:sarmientoju-rosariocent:20261101 | 1 | 0 | `e802295f638bbaaf…` | `ca77e72cfd8f9d10…` |
 | 2026-10-31 ar.primera:2627:racing-aldosivi:20261101 | 1 | 0 | `b041f6243817de4c…` | `fb65bb6ab3bc761b…` |
+| 2026-10-31 mx.liga_mx:2627:juarez-queretaro:20261031 | 1 | 0 | `13a241bfcc12712e…` | `de432088f184946b…` |
