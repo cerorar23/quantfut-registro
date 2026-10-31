@@ -171,3 +171,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-31 de.bundesliga:2627:mgladbach-paderborn:20261031 | 1 | 0 | `125dda6e865ac53b…` | `9f69d4ef88acd306…` |
 | 2026-10-31 de.bundesliga:2627:werderbreme-hoffenheim:20261031 | 1 | 0 | `e2cb882d309ac243…` | `ef29be8fb091e70c…` |
 | 2026-10-31 gb.premier_league:2627:bournemouth-leeds:20261031 | 1 | 0 | `985a809b8adad5f2…` | `c1599e59702375d8…` |
+| 2026-10-31 gb.premier_league:2627:hull-ipswich:20261031 | 1 | 0 | `f06d2b7acce5a3fb…` | `7c45f929b8f04b95…` |
