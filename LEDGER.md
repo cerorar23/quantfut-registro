@@ -183,3 +183,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-31 gb.premier_league:2627:tottenham-crystalpala:20261031 | 1 | 0 | `51d7dd49167f0eac…` | `a9b14872eb722288…` |
 | 2026-10-31 es.laliga:2627:betis-malaga:20261031 | 1 | 0 | `aba46524bc887550…` | `f0b0ce3bcf9d823d…` |
 | 2026-10-31 de.bundesliga:2627:bayernmunic-dortmund:20261031 | 1 | 0 | `05c941a5c127352e…` | `0e86d8567f2e146b…` |
+| 2026-10-31 nl.eredivisie:2627:heerenveen-nijmegen:20261031 | 1 | 0 | `278919d4faa6a788…` | `3faa5555361e4e53…` |
