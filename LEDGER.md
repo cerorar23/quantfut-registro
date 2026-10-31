@@ -177,3 +177,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-31 gb.premier_league:2627:coventry-sunderland:20261031 | 1 | 0 | `69647019c08b0e48…` | `ffa001ea04fe4270…` |
 | 2026-10-31 es.laliga:2627:vallecano-celta:20261031 | 1 | 0 | `40de66772f245655…` | `42df19df9d36889b…` |
 | 2026-10-31 nl.eredivisie:2627:feyenoord-forsittard:20261031 | 1 | 0 | `c1c17059d0a4483e…` | `bc1c3cef1a4fc04b…` |
+| 2026-10-31 pt.primeira:2627:moreirense-estrela:20261031 | 1 | 0 | `82f85c4ff0e7cacc…` | `b6b84d7084813f84…` |
