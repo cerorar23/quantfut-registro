@@ -190,3 +190,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-31 us.mls:2627:columbuscre-dcunited:20261031 | 1 | 0 | `d4cc41896fb1e416…` | `1dc50493eb1dcae2…` |
 | 2026-10-31 us.mls:2627:cincinnati-philadelphia:20261031 | 1 | 0 | `7577b775a473bceb…` | `d90b97222b72eb90…` |
 | 2026-10-31 us.mls:2627:stlouiscit-sandiego:20261031 | 1 | 0 | `391791761fb9b269…` | `497939b9f0ccea39…` |
+| 2026-10-31 us.mls:2627:sportingkan-dallas:20261031 | 1 | 0 | `15bf249ed5aac174…` | `91d5c9b8f46b54f4…` |
