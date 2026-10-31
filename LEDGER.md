@@ -191,3 +191,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-31 us.mls:2627:cincinnati-philadelphia:20261031 | 1 | 0 | `7577b775a473bceb…` | `d90b97222b72eb90…` |
 | 2026-10-31 us.mls:2627:stlouiscit-sandiego:20261031 | 1 | 0 | `391791761fb9b269…` | `497939b9f0ccea39…` |
 | 2026-10-31 us.mls:2627:sportingkan-dallas:20261031 | 1 | 0 | `15bf249ed5aac174…` | `91d5c9b8f46b54f4…` |
+| 2026-10-31 fr.ligue_1:2627:troyes-lemans:20261031 | 1 | 0 | `5f7cc085529ca267…` | `497d97c040345680…` |
