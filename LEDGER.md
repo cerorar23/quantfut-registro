@@ -225,3 +225,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-01 fr.ligue_1:2627:paris-monaco:20261101 | 1 | 0 | `ae468546376b3a32…` | `36d2f913965dc9c3…` |
 | 2026-11-01 de.bundesliga:2627:einfrankfur-hamburg:20261101 | 1 | 0 | `e99241aac4aec5ec…` | `2bec0c5135859a9e…` |
 | 2026-11-01 gb.premier_league:2627:liverpool-arsenal:20261101 | 1 | 0 | `5d4d5dc93ecce1dc…` | `c53c8e480f004c16…` |
+| 2026-11-01 it.serie_a:2627:lecce-genoa:20261101 | 1 | 0 | `c412298b88669bba…` | `e39618a7937e209a…` |
