@@ -205,3 +205,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-31 mx.liga_mx:2627:pachuca-tigresuanl:20261031 | 1 | 0 | `6ece918430f5165a…` | `6462959aaedf409c…` |
 | 2026-11-01 ar.primera:2627:estudiantes-instituto:20261101 | 1 | 0 | `35faca35e2e97b13…` | `8cfd93634c86feef…` |
 | 2026-11-01 mx.liga_mx:2627:guadalajara-atlante:20261101 | 1 | 0 | `34482a4eb04996f7…` | `f1a8035be70b9a57…` |
+| 2026-11-01 mx.liga_mx:2627:monterrey-tijuana:20261101 | 1 | 0 | `402d4401a2912010…` | `89c3aa9199470dea…` |
