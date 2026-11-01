@@ -215,3 +215,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-01 nl.eredivisie:2627:telstar-utrecht:20261101 | 1 | 0 | `06fbab1a72d5591a…` | `8c1719fc9c015f66…` |
 | 2026-11-01 nl.eredivisie:2627:excelsior-twente:20261101 | 1 | 0 | `164379eab73150b2…` | `307b319fdcf195a6…` |
 | 2026-11-01 fr.ligue_1:2627:strasbourg-auxerre:20261101 | 1 | 0 | `aeb121932f5a5936…` | `e7528ae179b21264…` |
+| 2026-11-01 it.serie_a:2627:lazio-cagliari:20261101 | 1 | 0 | `9dad41e49dd50536…` | `b20238524d8ddd1f…` |
