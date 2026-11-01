@@ -231,3 +231,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-01 pt.primeira:2627:academicovi-rioave:20261101 | 1 | 0 | `1a1e266b880ff201…` | `51891f1c8a8c5d7d…` |
 | 2026-11-01 ar.primera:2627:bocajuniors-riverplate:20261101 | 1 | 0 | `f304d61e9ae4ef0c…` | `75253cf98da32027…` |
 | 2026-11-01 fr.ligue_1:2627:marseille-toulouse:20261101 | 1 | 0 | `f6404069216457d1…` | `3e1dd03434cbf5dc…` |
+| 2026-11-01 it.serie_a:2627:juventus-napoli:20261101 | 1 | 0 | `093e8695994ce9a5…` | `b08fa35aa20abdb5…` |
