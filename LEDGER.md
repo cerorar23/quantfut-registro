@@ -206,3 +206,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-01 ar.primera:2627:estudiantes-instituto:20261101 | 1 | 0 | `35faca35e2e97b13…` | `8cfd93634c86feef…` |
 | 2026-11-01 mx.liga_mx:2627:guadalajara-atlante:20261101 | 1 | 0 | `34482a4eb04996f7…` | `f1a8035be70b9a57…` |
 | 2026-11-01 mx.liga_mx:2627:monterrey-tijuana:20261101 | 1 | 0 | `402d4401a2912010…` | `89c3aa9199470dea…` |
+| 2026-11-01 us.mls:2627:coloradorap-chicagofire:20261101 | 1 | 0 | `05f334c2b11a0b72…` | `4792a17e26d8c2eb…` |
