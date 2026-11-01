@@ -233,3 +233,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-01 fr.ligue_1:2627:marseille-toulouse:20261101 | 1 | 0 | `f6404069216457d1…` | `3e1dd03434cbf5dc…` |
 | 2026-11-01 it.serie_a:2627:juventus-napoli:20261101 | 1 | 0 | `093e8695994ce9a5…` | `b08fa35aa20abdb5…` |
 | 2026-11-01 es.laliga:2627:athbilbao-sociedad:20261101 | 1 | 0 | `04cb66d0a642cd92…` | `c122a3a0e0b375e6…` |
+| 2026-11-01 us.mls:2627:vancouverwh-seattlesoun:20261101 | 1 | 0 | `2a8363c790a1f608…` | `127726bf3a194ff3…` |
