@@ -241,3 +241,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-01 ar.primera:2627:belgrano-barracascen:20261101 | 1 | 0 | `f118013b2aeba4b3…` | `03546c24ccd0ec55…` |
 | 2026-11-01 mx.liga_mx:2627:santoslagun-necaxa:20261101 | 1 | 0 | `2357c1b09af49aa6…` | `34bd020a49c43990…` |
 | 2026-11-01 ar.primera:2627:lanus-gimnasiamen:20261101 | 1 | 0 | `14adbfe515cd40ff…` | `310d9f9c7d3b826d…` |
+| 2026-11-02 us.mls:2627:newengland-internaziona:20261102 | 1 | 0 | `b6da2dff3a5555e0…` | `2307a6cf4286a7cf…` |
