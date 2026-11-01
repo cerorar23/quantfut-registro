@@ -218,3 +218,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-01 it.serie_a:2627:lazio-cagliari:20261101 | 1 | 0 | `9dad41e49dd50536…` | `b20238524d8ddd1f…` |
 | 2026-11-01 it.serie_a:2627:frosinone-torino:20261101 | 1 | 0 | `552aaca79c9a0dfe…` | `5e6ca34616b3b49a…` |
 | 2026-11-01 de.bundesliga:2627:unionberlin-koln:20261101 | 1 | 0 | `a2a9bf4d39726f68…` | `a8c9c7441dae4a46…` |
+| 2026-11-01 es.laliga:2627:racingsanta-realmadrid:20261101 | 1 | 0 | `5296c696d324301f…` | `56884506397900d9…` |
