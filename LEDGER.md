@@ -223,3 +223,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-01 nl.eredivisie:2627:groningen-spartarotte:20261101 | 1 | 0 | `028201e79d9e3787…` | `31d60fb93625bf1d…` |
 | 2026-11-01 fr.ligue_1:2627:lyon-angers:20261031 | 1 | 0 | `98eed4285cd01e94…` | `20cfe128a96180c9…` |
 | 2026-11-01 fr.ligue_1:2627:paris-monaco:20261101 | 1 | 0 | `ae468546376b3a32…` | `36d2f913965dc9c3…` |
+| 2026-11-01 de.bundesliga:2627:einfrankfur-hamburg:20261101 | 1 | 0 | `e99241aac4aec5ec…` | `2bec0c5135859a9e…` |
