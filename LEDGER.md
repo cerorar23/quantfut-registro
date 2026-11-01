@@ -210,3 +210,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-01 mx.liga_mx:2627:america-toluca:20261101 | 1 | 0 | `68f4cab289d784c8…` | `f959d14597a1f74f…` |
 | 2026-11-01 | 36 | 0 | `5d147c10368bad78…` | `86330585565a3114…` |
 | 2026-11-01 nl.eredivisie:2627:zwolle-denhaag:20261101 | 1 | 0 | `6c6deca72066ea3d…` | `6ec737d4a382911d…` |
+| 2026-11-01 it.serie_a:2627:como-venezia:20261101 | 1 | 0 | `74d82a9dd5673528…` | `43ff693d314c495c…` |
