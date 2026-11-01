@@ -207,3 +207,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-01 mx.liga_mx:2627:guadalajara-atlante:20261101 | 1 | 0 | `34482a4eb04996f7…` | `f1a8035be70b9a57…` |
 | 2026-11-01 mx.liga_mx:2627:monterrey-tijuana:20261101 | 1 | 0 | `402d4401a2912010…` | `89c3aa9199470dea…` |
 | 2026-11-01 us.mls:2627:coloradorap-chicagofire:20261101 | 1 | 0 | `05f334c2b11a0b72…` | `4792a17e26d8c2eb…` |
+| 2026-11-01 mx.liga_mx:2627:america-toluca:20261101 | 1 | 0 | `68f4cab289d784c8…` | `f959d14597a1f74f…` |
