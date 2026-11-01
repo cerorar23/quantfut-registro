@@ -236,3 +236,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-01 us.mls:2627:vancouverwh-seattlesoun:20261101 | 1 | 0 | `2a8363c790a1f608…` | `127726bf3a194ff3…` |
 | 2026-11-01 pt.primeira:2627:spbraga-famalicao:20261101 | 1 | 0 | `0b862fee8fa9f1f4…` | `2fb961709d2c829b…` |
 | 2026-11-01 us.mls:2627:atlantaunit-toronto:20261101 | 1 | 0 | `e4d24f3105db0440…` | `029fceb1fcd7f344…` |
+| 2026-11-01 us.mls:2627:nashville-newyorkred:20261101 | 1 | 0 | `9f4c25bc7d6af073…` | `f6a96d26b17c5634…` |
