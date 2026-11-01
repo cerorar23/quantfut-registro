@@ -239,3 +239,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-01 us.mls:2627:nashville-newyorkred:20261101 | 1 | 0 | `9f4c25bc7d6af073…` | `f6a96d26b17c5634…` |
 | 2026-11-01 ar.primera:2627:newellsold-uniondesan:20261101 | 1 | 0 | `3fd387a97dff3681…` | `70db0b4c2a22bfe0…` |
 | 2026-11-01 ar.primera:2627:belgrano-barracascen:20261101 | 1 | 0 | `f118013b2aeba4b3…` | `03546c24ccd0ec55…` |
+| 2026-11-01 mx.liga_mx:2627:santoslagun-necaxa:20261101 | 1 | 0 | `2357c1b09af49aa6…` | `34bd020a49c43990…` |
