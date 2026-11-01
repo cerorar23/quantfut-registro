@@ -227,3 +227,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-01 gb.premier_league:2627:liverpool-arsenal:20261101 | 1 | 0 | `5d4d5dc93ecce1dc…` | `c53c8e480f004c16…` |
 | 2026-11-01 it.serie_a:2627:lecce-genoa:20261101 | 1 | 0 | `c412298b88669bba…` | `e39618a7937e209a…` |
 | 2026-11-01 es.laliga:2627:elche-valencia:20261101 | 1 | 0 | `c3324ba14b8b098c…` | `8efb4526962b83fa…` |
+| 2026-11-01 pt.primeira:2627:maritimo-santaclara:20261101 | 1 | 0 | `a59fb497e395167d…` | `c468d38c1e0f5a7a…` |
