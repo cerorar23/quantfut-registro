@@ -214,3 +214,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-01 es.laliga:2627:getafe-sevilla:20261101 | 1 | 0 | `391e1054720d8e3d…` | `397133e7ca96eb3b…` |
 | 2026-11-01 nl.eredivisie:2627:telstar-utrecht:20261101 | 1 | 0 | `06fbab1a72d5591a…` | `8c1719fc9c015f66…` |
 | 2026-11-01 nl.eredivisie:2627:excelsior-twente:20261101 | 1 | 0 | `164379eab73150b2…` | `307b319fdcf195a6…` |
+| 2026-11-01 fr.ligue_1:2627:strasbourg-auxerre:20261101 | 1 | 0 | `aeb121932f5a5936…` | `e7528ae179b21264…` |
