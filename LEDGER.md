@@ -203,3 +203,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-10-31 us.mls:2627:losangeles-austin:20261031 | 1 | 0 | `c4acf68ba2b8c796…` | `057db717fe34bb17…` |
 | 2026-10-31 ar.primera:2627:velezsarsfi-sanlorenzo:20261101 | 1 | 0 | `cb3a5112b2956ddf…` | `0c7ae78b41ae3277…` |
 | 2026-10-31 mx.liga_mx:2627:pachuca-tigresuanl:20261031 | 1 | 0 | `6ece918430f5165a…` | `6462959aaedf409c…` |
+| 2026-11-01 ar.primera:2627:estudiantes-instituto:20261101 | 1 | 0 | `35faca35e2e97b13…` | `8cfd93634c86feef…` |
