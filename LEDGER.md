@@ -220,3 +220,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-01 de.bundesliga:2627:unionberlin-koln:20261101 | 1 | 0 | `a2a9bf4d39726f68…` | `a8c9c7441dae4a46…` |
 | 2026-11-01 es.laliga:2627:racingsanta-realmadrid:20261101 | 1 | 0 | `5296c696d324301f…` | `56884506397900d9…` |
 | 2026-11-01 pt.primeira:2627:arouca-nacional:20261101 | 1 | 0 | `e3670aab51b35e15…` | `a5cda12da07bdc4a…` |
+| 2026-11-01 nl.eredivisie:2627:groningen-spartarotte:20261101 | 1 | 0 | `028201e79d9e3787…` | `31d60fb93625bf1d…` |
