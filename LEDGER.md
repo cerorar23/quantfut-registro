@@ -253,3 +253,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-02 es.laliga:2627:lacoruna-osasuna:20261102 | 1 | 0 | `a2f1c93d0aaac832…` | `fa4138f69d5cd40e…` |
 | 2026-11-02 pt.primeira:2627:gilvicente-guimaraes:20261102 | 1 | 0 | `5198042f949f6d06…` | `103f2c02d7722519…` |
 | 2026-11-02 pt.primeira:2627:benfica-alverca:20261102 | 1 | 0 | `cffb0b380273bca6…` | `e8dad75afd9449a7…` |
+| 2026-11-02 ar.primera:2627:platense-centralcord:20261101 | 1 | 0 | `b7c9f2677b299f81…` | `b187b81375a2bac7…` |
