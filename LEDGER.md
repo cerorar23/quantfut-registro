@@ -254,3 +254,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-02 pt.primeira:2627:gilvicente-guimaraes:20261102 | 1 | 0 | `5198042f949f6d06…` | `103f2c02d7722519…` |
 | 2026-11-02 pt.primeira:2627:benfica-alverca:20261102 | 1 | 0 | `cffb0b380273bca6…` | `e8dad75afd9449a7…` |
 | 2026-11-02 ar.primera:2627:platense-centralcord:20261101 | 1 | 0 | `b7c9f2677b299f81…` | `b187b81375a2bac7…` |
+| 2026-11-02 br.serie_a:2627:bragantino-santos:20261102 | 1 | 0 | `63dce34747008a21…` | `975371e03fa0f2e0…` |
