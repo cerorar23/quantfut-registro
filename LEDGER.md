@@ -251,3 +251,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-02 fr.ligue_1:2627:lorient-brest:20261031 | 1 | 0 | `cd79425bc32b3c74…` | `1e7e208810ba7141…` |
 | 2026-11-02 gb.premier_league:2627:newcastle-everton:20261102 | 1 | 0 | `03a3d5f33af4f5db…` | `ae184a445e97dfd8…` |
 | 2026-11-02 es.laliga:2627:lacoruna-osasuna:20261102 | 1 | 0 | `a2f1c93d0aaac832…` | `fa4138f69d5cd40e…` |
+| 2026-11-02 pt.primeira:2627:gilvicente-guimaraes:20261102 | 1 | 0 | `5198042f949f6d06…` | `103f2c02d7722519…` |
