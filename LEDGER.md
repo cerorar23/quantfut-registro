@@ -243,3 +243,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-01 ar.primera:2627:lanus-gimnasiamen:20261101 | 1 | 0 | `14adbfe515cd40ff…` | `310d9f9c7d3b826d…` |
 | 2026-11-02 us.mls:2627:newengland-internaziona:20261102 | 1 | 0 | `b6da2dff3a5555e0…` | `2307a6cf4286a7cf…` |
 | 2026-11-02 mx.liga_mx:2627:cruzazul-leon:20261102 | 1 | 0 | `8f00ca35880951f7…` | `e47f07395439921b…` |
+| 2026-11-02 us.mls:2627:losangeles-minnesotaun:20261102 | 1 | 0 | `0e4ae6c147dd715c…` | `64aefcac8e525052…` |
