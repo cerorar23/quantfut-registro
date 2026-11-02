@@ -246,3 +246,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-02 us.mls:2627:losangeles-minnesotaun:20261102 | 1 | 0 | `0e4ae6c147dd715c…` | `64aefcac8e525052…` |
 | 2026-11-02 us.mls:2627:portlandtim-houstondyna:20261102 | 1 | 0 | `cab1dfb29e8b900e…` | `5acc064b23dfa5f4…` |
 | 2026-11-02 | 11 | 0 | `8bcbe5f7f22e43d8…` | `c2cffbdd3face289…` |
+| 2026-11-02 it.serie_a:2627:sassuolo-fiorentina:20261102 | 1 | 0 | `02605c792f9f89e5…` | `1677bd6f07de190c…` |
