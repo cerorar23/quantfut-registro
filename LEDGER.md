@@ -248,3 +248,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-02 | 11 | 0 | `8bcbe5f7f22e43d8…` | `c2cffbdd3face289…` |
 | 2026-11-02 it.serie_a:2627:sassuolo-fiorentina:20261102 | 1 | 0 | `02605c792f9f89e5…` | `1677bd6f07de190c…` |
 | 2026-11-02 it.serie_a:2627:atalanta-parma:20261102 | 1 | 0 | `a6c9f0bdf307039b…` | `8742678cc1fa602c…` |
+| 2026-11-02 fr.ligue_1:2627:lorient-brest:20261031 | 1 | 0 | `cd79425bc32b3c74…` | `1e7e208810ba7141…` |
