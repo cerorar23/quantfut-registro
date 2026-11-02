@@ -244,3 +244,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-02 us.mls:2627:newengland-internaziona:20261102 | 1 | 0 | `b6da2dff3a5555e0…` | `2307a6cf4286a7cf…` |
 | 2026-11-02 mx.liga_mx:2627:cruzazul-leon:20261102 | 1 | 0 | `8f00ca35880951f7…` | `e47f07395439921b…` |
 | 2026-11-02 us.mls:2627:losangeles-minnesotaun:20261102 | 1 | 0 | `0e4ae6c147dd715c…` | `64aefcac8e525052…` |
+| 2026-11-02 us.mls:2627:portlandtim-houstondyna:20261102 | 1 | 0 | `cab1dfb29e8b900e…` | `5acc064b23dfa5f4…` |
