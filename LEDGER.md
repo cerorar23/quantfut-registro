@@ -257,3 +257,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-02 br.serie_a:2627:bragantino-santos:20261102 | 1 | 0 | `63dce34747008a21…` | `975371e03fa0f2e0…` |
 | 2026-11-03 ar.primera:2627:atleticotuc-argentinosj:20261101 | 1 | 0 | `8137559814908517…` | `d95525429b699892…` |
 | 2026-11-03 ar.primera:2627:indrivadavi-banfield:20261101 | 1 | 0 | `948b6e0e26c457dc…` | `b2b10596e40adcdc…` |
+| 2026-11-03 | 7 | 0 | `5ada70c0eea06668…` | `e0281e59d404498c…` |
