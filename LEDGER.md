@@ -264,3 +264,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-03 eu.ucl:2627:manchesteru-roma:20261103 | 1 | 0 | `6f0eff748cada065…` | `72b56ef9ca49955a…` |
 | 2026-11-03 eu.ucl:2627:feyenoord-internaziona:20261103 | 1 | 0 | `078cd7ea364d9b4e…` | `6b56e59852675275…` |
 | 2026-11-03 br.serie_a:2627:chapecoense-mirassol:20261103 | 1 | 0 | `658fb26810943ab7…` | `7f2f04ec20ddb3c8…` |
+| 2026-11-04 br.serie_a:2627:internaciona-coritiba:20261104 | 1 | 0 | `f5ec548edca83b99…` | `4ac2524b9ade35b1…` |
