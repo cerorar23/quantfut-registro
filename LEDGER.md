@@ -259,3 +259,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-03 ar.primera:2627:indrivadavi-banfield:20261101 | 1 | 0 | `948b6e0e26c457dc…` | `b2b10596e40adcdc…` |
 | 2026-11-03 | 7 | 0 | `5ada70c0eea06668…` | `e0281e59d404498c…` |
 | 2026-11-03 eu.ucl:2627:athmadrid-bayernmunic:20261103 | 1 | 0 | `0b049e0a65b64517…` | `6680f4da68204f7a…` |
+| 2026-11-03 eu.ucl:2627:villarreal-parissg:20261103 | 1 | 0 | `9e866501890011a9…` | `7159c468cf596c1d…` |
