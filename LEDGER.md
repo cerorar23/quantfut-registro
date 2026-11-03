@@ -260,3 +260,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-03 | 7 | 0 | `5ada70c0eea06668…` | `e0281e59d404498c…` |
 | 2026-11-03 eu.ucl:2627:athmadrid-bayernmunic:20261103 | 1 | 0 | `0b049e0a65b64517…` | `6680f4da68204f7a…` |
 | 2026-11-03 eu.ucl:2627:villarreal-parissg:20261103 | 1 | 0 | `9e866501890011a9…` | `7159c468cf596c1d…` |
+| 2026-11-03 eu.ucl:2627:barcelona-astonvilla:20261103 | 1 | 0 | `c4534a4fee077c09…` | `5fc191343c6db9ea…` |
