@@ -271,3 +271,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-04 eu.ucl:2627:rbleipzig-manchesterc:20261104 | 1 | 0 | `d86af53275f34e83…` | `523b2993d282d4a7…` |
 | 2026-11-04 eu.ucl:2627:dortmund-betis:20261104 | 1 | 0 | `a85913ce1213c1fa…` | `7d6fe261724e5d12…` |
 | 2026-11-04 br.serie_a:2627:flamengorj-gremio:20261104 | 1 | 0 | `7ced16005e1e1c00…` | `b0f7476099e8779b…` |
+| 2026-11-04 br.serie_a:2627:athleticopr-vasco:20261104 | 1 | 0 | `e4d4c0130ec431eb…` | `48457da5568089c1…` |
