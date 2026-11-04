@@ -268,3 +268,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-04 | 9 | 0 | `80a122403dff9a16…` | `9517b8296f749ea0…` |
 | 2026-11-04 eu.ucl:2627:lens-como:20261104 | 1 | 0 | `71fc7687464d5311…` | `3d8ccd4612ec7fa3…` |
 | 2026-11-04 eu.ucl:2627:porto-napoli:20261104 | 1 | 0 | `0cd3eebd0ae8fd93…` | `fea6798aa8887fa2…` |
+| 2026-11-04 eu.ucl:2627:rbleipzig-manchesterc:20261104 | 1 | 0 | `d86af53275f34e83…` | `523b2993d282d4a7…` |
