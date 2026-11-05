@@ -283,3 +283,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-05 eu.uel:2627:azalkmaar-juventus:20261105 | 1 | 0 | `82ac230ec23b4ad8…` | `7177e36ddc37ffae…` |
 | 2026-11-05 ar.primera:2627:gimnasialp-belgrano:20261108 | 1 | 0 | `79e76f59613b72b0…` | `870ea9ec0c7012cb…` |
 | 2026-11-05 br.serie_a:2627:palmeiras-remo:20261105 | 1 | 0 | `436850fc76ec9dee…` | `22dea8d6f05c271a…` |
+| 2026-11-06 br.serie_a:2627:cruzeiro-bahia:20261106 | 1 | 0 | `cedf0b944d902b68…` | `1148c841c123bc4c…` |
