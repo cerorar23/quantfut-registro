@@ -277,3 +277,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-05 us.mls:2627:losangeles-newyorkcit:20261105 | 1 | 0 | `83cf808141cd62ef…` | `8c2ccec3a7f61003…` |
 | 2026-11-05 | 8 | 0 | `10747fc7008c0aa6…` | `996f42919489a3d5…` |
 | 2026-11-05 eu.uel:2627:crystalpala-hoffenheim:20261105 | 1 | 0 | `a0a26ed0d38a22ab…` | `7df6955fcfb3ae8d…` |
+| 2026-11-05 eu.uel:2627:sociedad-lyon:20261105 | 1 | 0 | `b5858fa77d060164…` | `d98e142ab7bd1a29…` |
