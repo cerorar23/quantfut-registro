@@ -280,3 +280,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-05 eu.uel:2627:sociedad-lyon:20261105 | 1 | 0 | `b5858fa77d060164…` | `d98e142ab7bd1a29…` |
 | 2026-11-05 ar.primera:2627:aldosivi-riverplate:20261108 | 1 | 0 | `a8ec1120e26de1cd…` | `665f1795864740ce…` |
 | 2026-11-05 eu.uel:2627:leverkusen-marseille:20261105 | 1 | 0 | `32dc73938ce33369…` | `2c0c50bf27d893dd…` |
+| 2026-11-05 eu.uel:2627:azalkmaar-juventus:20261105 | 1 | 0 | `82ac230ec23b4ad8…` | `7177e36ddc37ffae…` |
