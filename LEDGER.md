@@ -279,3 +279,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-05 eu.uel:2627:crystalpala-hoffenheim:20261105 | 1 | 0 | `a0a26ed0d38a22ab…` | `7df6955fcfb3ae8d…` |
 | 2026-11-05 eu.uel:2627:sociedad-lyon:20261105 | 1 | 0 | `b5858fa77d060164…` | `d98e142ab7bd1a29…` |
 | 2026-11-05 ar.primera:2627:aldosivi-riverplate:20261108 | 1 | 0 | `a8ec1120e26de1cd…` | `665f1795864740ce…` |
+| 2026-11-05 eu.uel:2627:leverkusen-marseille:20261105 | 1 | 0 | `32dc73938ce33369…` | `2c0c50bf27d893dd…` |
