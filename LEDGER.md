@@ -286,3 +286,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-06 br.serie_a:2627:cruzeiro-bahia:20261106 | 1 | 0 | `cedf0b944d902b68…` | `1148c841c123bc4c…` |
 | 2026-11-06 | 17 | 0 | `db820287546af1c3…` | `27ebe48c5f812976…` |
 | 2026-11-06 ar.primera:2627:barracascen-racing:20261108 | 1 | 0 | `ac5c469130149906…` | `b46c07356230d89f…` |
+| 2026-11-06 nl.eredivisie:2627:willemii-zwolle:20261106 | 1 | 0 | `7ede19ef54879954…` | `6592e394b0f7fb7e…` |
