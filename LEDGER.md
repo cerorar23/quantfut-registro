@@ -292,3 +292,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-06 fr.ligue_1:2627:toulouse-strasbourg:20261106 | 1 | 0 | `3787d9a2c3418cd5…` | `8d08e2fe4cdb8779…` |
 | 2026-11-06 gb.premier_league:2627:everton-coventry:20261106 | 1 | 0 | `3153ecf6fe5255cf…` | `ceb746c53a9ce0f9…` |
 | 2026-11-06 es.laliga:2627:sevilla-alaves:20261106 | 1 | 0 | `984339eb741d1fe7…` | `0ef1a03b7a593994…` |
+| 2026-11-06 pt.primeira:2627:famalicao-arouca:20261106 | 1 | 0 | `152996bc32851064…` | `36b9eceac5dcaafe…` |
