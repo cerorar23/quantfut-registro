@@ -296,3 +296,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-06 ar.primera:2627:independient-depriestra:20261108 | 1 | 0 | `cf31263312d7e4f7…` | `a9de80f1ae397ba1…` |
 | 2026-11-06 ar.primera:2627:uniondesan-velezsarsfi:20261108 | 1 | 0 | `bc38e644614a7a93…` | `172f4fffee8429d8…` |
 | 2026-11-06 ar.primera:2627:sanlorenzo-platense:20261108 | 1 | 0 | `448a481cf165cd07…` | `570ad693d2c346dc…` |
+| 2026-11-06 br.serie_a:2627:vitoria-fluminense:20261106 | 1 | 0 | `14e4769c091b5590…` | `446bc39056f880dd…` |
