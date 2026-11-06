@@ -288,3 +288,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-06 ar.primera:2627:barracascen-racing:20261108 | 1 | 0 | `ac5c469130149906…` | `b46c07356230d89f…` |
 | 2026-11-06 nl.eredivisie:2627:willemii-zwolle:20261106 | 1 | 0 | `7ede19ef54879954…` | `6592e394b0f7fb7e…` |
 | 2026-11-06 de.bundesliga:2627:hamburg-mgladbach:20261106 | 1 | 0 | `48335ea84013e409…` | `d904c3d83a1d8826…` |
+| 2026-11-06 it.serie_a:2627:venezia-udinese:20261106 | 1 | 0 | `5c764f0741a5c025…` | `1a4051526f192297…` |
