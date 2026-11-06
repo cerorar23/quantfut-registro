@@ -285,3 +285,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-05 br.serie_a:2627:palmeiras-remo:20261105 | 1 | 0 | `436850fc76ec9dee…` | `22dea8d6f05c271a…` |
 | 2026-11-06 br.serie_a:2627:cruzeiro-bahia:20261106 | 1 | 0 | `cedf0b944d902b68…` | `1148c841c123bc4c…` |
 | 2026-11-06 | 17 | 0 | `db820287546af1c3…` | `27ebe48c5f812976…` |
+| 2026-11-06 ar.primera:2627:barracascen-racing:20261108 | 1 | 0 | `ac5c469130149906…` | `b46c07356230d89f…` |
