@@ -314,3 +314,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-07 gb.premier_league:2627:fulham-newcastle:20261107 | 1 | 0 | `b2e617faa4a0ffcb…` | `949c6995ddc22fd6…` |
 | 2026-11-07 gb.premier_league:2627:arsenal-hull:20261107 | 1 | 0 | `176c08cc2f31aaf8…` | `2d4bd4e9fd7ba79d…` |
 | 2026-11-07 es.laliga:2627:espanol-lacoruna:20261107 | 1 | 0 | `3149e167d9294821…` | `2e2a6ed05a32c630…` |
+| 2026-11-07 pt.primeira:2627:nacional-academicovi:20261107 | 1 | 0 | `115ee44abe68c03e…` | `8f465c4224e7829e…` |
