@@ -335,3 +335,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-07 ar.primera:2627:argentinosj-huracan:20261108 | 1 | 0 | `f455f281c087c057…` | `dc098a5364e62632…` |
 | 2026-11-07 us.mls:2627:montreal-vancouverwh:20261107 | 1 | 0 | `0098122747102238…` | `c7b3db0d3087f25c…` |
 | 2026-11-07 us.mls:2627:philadelphia-toronto:20261107 | 1 | 0 | `5f667116a62c3d64…` | `79450a7eca4005bc…` |
+| 2026-11-07 us.mls:2627:newyorkred-atlantaunit:20261107 | 1 | 0 | `dda9aef22c51367e…` | `8589b6b2f6ac75c9…` |
