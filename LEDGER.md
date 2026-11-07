@@ -318,3 +318,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-07 nl.eredivisie:2627:forsittard-telstar:20261107 | 1 | 0 | `e76b40d1c3529a9d…` | `e3c40d135f49dd08…` |
 | 2026-11-07 it.serie_a:2627:parma-bologna:20261107 | 1 | 0 | `dadf91fc24e689a0…` | `4cbce6a26bedfb43…` |
 | 2026-11-07 gb.premier_league:2627:nottmfores-manchesterc:20261107 | 1 | 0 | `404ed7414ade8c3a…` | `8d6405b4cca6c0c2…` |
+| 2026-11-07 de.bundesliga:2627:stuttgart-werderbreme:20261107 | 1 | 0 | `8a33d28e9a5b0b3d…` | `8bac2a4aeb1eeaee…` |
