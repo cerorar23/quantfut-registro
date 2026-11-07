@@ -345,3 +345,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-08 us.mls:2627:austin-portlandtim:20261108 | 1 | 0 | `010cc05eb0652132…` | `47e364dded9596e3…` |
 | 2026-11-08 us.mls:2627:minnesotaun-sanjoseear:20261108 | 1 | 0 | `65b58528e82caa68…` | `fdf398c1255d08ad…` |
 | 2026-11-08 us.mls:2627:seattlesoun-losangeles:20261108 | 1 | 0 | `7c268d64e5ed42ec…` | `72556ccc6f5aebbf…` |
+| 2026-11-08 us.mls:2627:houstondyna-stlouiscit:20261108 | 1 | 0 | `ca5e6208e44e4a37…` | `ac2a3c6898d315aa…` |
