@@ -346,3 +346,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-08 us.mls:2627:minnesotaun-sanjoseear:20261108 | 1 | 0 | `65b58528e82caa68…` | `fdf398c1255d08ad…` |
 | 2026-11-08 us.mls:2627:seattlesoun-losangeles:20261108 | 1 | 0 | `7c268d64e5ed42ec…` | `72556ccc6f5aebbf…` |
 | 2026-11-08 us.mls:2627:houstondyna-stlouiscit:20261108 | 1 | 0 | `ca5e6208e44e4a37…` | `ac2a3c6898d315aa…` |
+| 2026-11-08 us.mls:2627:realsaltla-losangeles:20261108 | 1 | 0 | `f860261a95fea40a…` | `a594b28c10b0105c…` |
