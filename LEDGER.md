@@ -320,3 +320,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-07 gb.premier_league:2627:nottmfores-manchesterc:20261107 | 1 | 0 | `404ed7414ade8c3a…` | `8d6405b4cca6c0c2…` |
 | 2026-11-07 de.bundesliga:2627:stuttgart-werderbreme:20261107 | 1 | 0 | `8a33d28e9a5b0b3d…` | `8bac2a4aeb1eeaee…` |
 | 2026-11-07 es.laliga:2627:osasuna-athbilbao:20261107 | 1 | 0 | `d62af4867e1e60ce…` | `0f56f84101fb6c61…` |
+| 2026-11-07 nl.eredivisie:2627:denhaag-spartarotte:20261107 | 1 | 0 | `d0d3d5969051fb0d…` | `6ef48bef6de2601f…` |
