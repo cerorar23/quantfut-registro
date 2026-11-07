@@ -303,3 +303,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-07 ar.primera:2627:banfield-atleticotuc:20261108 | 1 | 0 | `11cda9b0aa81337f…` | `6f1e2f9b24765335…` |
 | 2026-11-07 mx.liga_mx:2627:atlante-santoslagun:20261107 | 1 | 0 | `de5f5a0a36a91ebf…` | `955cfb11fd5bf0d7…` |
 | 2026-11-07 | 50 | 0 | `745b81f3e7740675…` | `bbb7e8aa1dbf940d…` |
+| 2026-11-07 gb.premier_league:2627:leeds-tottenham:20261107 | 1 | 0 | `45a2e3c51b37351e…` | `f410d0d68647013a…` |
