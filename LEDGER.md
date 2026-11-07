@@ -301,3 +301,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-07 mx.liga_mx:2627:necaxa-tijuana:20261107 | 1 | 0 | `2af057b5e76a1e95…` | `45fe5b4e7ec599de…` |
 | 2026-11-07 mx.liga_mx:2627:atleticosan-juarez:20261107 | 1 | 0 | `4dc345a5df9c87fe…` | `8fe13708fc24bb0d…` |
 | 2026-11-07 ar.primera:2627:banfield-atleticotuc:20261108 | 1 | 0 | `11cda9b0aa81337f…` | `6f1e2f9b24765335…` |
+| 2026-11-07 mx.liga_mx:2627:atlante-santoslagun:20261107 | 1 | 0 | `de5f5a0a36a91ebf…` | `955cfb11fd5bf0d7…` |
