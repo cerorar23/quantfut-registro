@@ -339,3 +339,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-07 us.mls:2627:chicagofire-columbuscre:20261107 | 1 | 0 | `d8d8656591cd3233…` | `440e6d2730f43137…` |
 | 2026-11-07 us.mls:2627:internaziona-charlotte:20261107 | 1 | 0 | `8ea69df098b1682f…` | `88ee857c22228922…` |
 | 2026-11-07 us.mls:2627:dcunited-newyorkcit:20261107 | 1 | 0 | `a2933e8a4e40a9c7…` | `fd29dbcd3769e27a…` |
+| 2026-11-07 us.mls:2627:orlandocity-newengland:20261107 | 1 | 0 | `b83f0777925d701f…` | `38c28430ef2708aa…` |
