@@ -337,3 +337,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-07 us.mls:2627:philadelphia-toronto:20261107 | 1 | 0 | `5f667116a62c3d64…` | `79450a7eca4005bc…` |
 | 2026-11-07 us.mls:2627:newyorkred-atlantaunit:20261107 | 1 | 0 | `dda9aef22c51367e…` | `8589b6b2f6ac75c9…` |
 | 2026-11-07 us.mls:2627:chicagofire-columbuscre:20261107 | 1 | 0 | `d8d8656591cd3233…` | `440e6d2730f43137…` |
+| 2026-11-07 us.mls:2627:internaziona-charlotte:20261107 | 1 | 0 | `8ea69df098b1682f…` | `88ee857c22228922…` |
