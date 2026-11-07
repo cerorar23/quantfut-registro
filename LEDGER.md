@@ -328,3 +328,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-07 it.serie_a:2627:roma-sassuolo:20261107 | 1 | 0 | `7ae58233c57ab82c…` | `ff4019aa6b3a3fae…` |
 | 2026-11-07 fr.ligue_1:2627:parissg-troyes:20261107 | 1 | 0 | `284f6702cd8a0675…` | `cc3f89d1c5887b99…` |
 | 2026-11-07 es.laliga:2627:valencia-realmadrid:20261107 | 1 | 0 | `8854732147b4c331…` | `847ec2801668febd…` |
+| 2026-11-07 nl.eredivisie:2627:excelsior-goaheadeag:20261107 | 1 | 0 | `0940771305c9241a…` | `ef7ade9af475142c…` |
