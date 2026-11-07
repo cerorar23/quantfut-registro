@@ -309,3 +309,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-07 it.serie_a:2627:cagliari-frosinone:20261107 | 1 | 0 | `b6eecf19afde6987…` | `84eac7b691148caa…` |
 | 2026-11-07 de.bundesliga:2627:mainz-bayernmunic:20261107 | 1 | 0 | `f865ef54ec1b3289…` | `a64a3ac86280bf12…` |
 | 2026-11-07 de.bundesliga:2627:dortmund-elversberg:20261107 | 1 | 0 | `9e273b7815432b5c…` | `467190b0d310e6a8…` |
+| 2026-11-07 de.bundesliga:2627:rbleipzig-augsburg:20261107 | 1 | 0 | `c7c48f2d6db11dd7…` | `5fd0d307e9d5d396…` |
