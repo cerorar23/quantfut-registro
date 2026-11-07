@@ -332,3 +332,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-07 pt.primeira:2627:splisbon-moreirense:20261107 | 1 | 0 | `4f5247637dad3a59…` | `dd9c243b54f2efc3…` |
 | 2026-11-07 ar.primera:2627:bocajuniors-defensayju:20261108 | 1 | 0 | `56f58cd17f6defb7…` | `f9ca5b1fae8d116c…` |
 | 2026-11-07 ar.primera:2627:rosariocent-estudiantes:20261108 | 1 | 0 | `39c7636b351758bb…` | `953dfd690c04ee43…` |
+| 2026-11-07 ar.primera:2627:argentinosj-huracan:20261108 | 1 | 0 | `f455f281c087c057…` | `dc098a5364e62632…` |
