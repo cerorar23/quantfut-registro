@@ -330,3 +330,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-07 es.laliga:2627:valencia-realmadrid:20261107 | 1 | 0 | `8854732147b4c331…` | `847ec2801668febd…` |
 | 2026-11-07 nl.eredivisie:2627:excelsior-goaheadeag:20261107 | 1 | 0 | `0940771305c9241a…` | `ef7ade9af475142c…` |
 | 2026-11-07 pt.primeira:2627:splisbon-moreirense:20261107 | 1 | 0 | `4f5247637dad3a59…` | `dd9c243b54f2efc3…` |
+| 2026-11-07 ar.primera:2627:bocajuniors-defensayju:20261108 | 1 | 0 | `56f58cd17f6defb7…` | `f9ca5b1fae8d116c…` |
