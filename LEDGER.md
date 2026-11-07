@@ -324,3 +324,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-07 fr.ligue_1:2627:auxerre-paris:20261107 | 1 | 0 | `0931453520ed1e37…` | `3fe634b7b3174109…` |
 | 2026-11-07 pt.primeira:2627:alverca-casapia:20261107 | 1 | 0 | `419b25ab5bc169cc…` | `7a3ed7baf873c681…` |
 | 2026-11-07 ar.primera:2627:tallerescor-estudiantes:20261108 | 1 | 0 | `ccdbb0ef4410dc5b…` | `19ef49c0e5ece60b…` |
+| 2026-11-07 ar.primera:2627:gimnasiamen-indrivadavi:20261108 | 1 | 0 | `41f1784e066e986f…` | `db22182ad0245773…` |
