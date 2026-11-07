@@ -322,3 +322,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-07 es.laliga:2627:osasuna-athbilbao:20261107 | 1 | 0 | `d62af4867e1e60ce…` | `0f56f84101fb6c61…` |
 | 2026-11-07 nl.eredivisie:2627:denhaag-spartarotte:20261107 | 1 | 0 | `d0d3d5969051fb0d…` | `6ef48bef6de2601f…` |
 | 2026-11-07 fr.ligue_1:2627:auxerre-paris:20261107 | 1 | 0 | `0931453520ed1e37…` | `3fe634b7b3174109…` |
+| 2026-11-07 pt.primeira:2627:alverca-casapia:20261107 | 1 | 0 | `419b25ab5bc169cc…` | `7a3ed7baf873c681…` |
