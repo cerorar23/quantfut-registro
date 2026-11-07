@@ -310,3 +310,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-07 de.bundesliga:2627:mainz-bayernmunic:20261107 | 1 | 0 | `f865ef54ec1b3289…` | `a64a3ac86280bf12…` |
 | 2026-11-07 de.bundesliga:2627:dortmund-elversberg:20261107 | 1 | 0 | `9e273b7815432b5c…` | `467190b0d310e6a8…` |
 | 2026-11-07 de.bundesliga:2627:rbleipzig-augsburg:20261107 | 1 | 0 | `c7c48f2d6db11dd7…` | `5fd0d307e9d5d396…` |
+| 2026-11-07 de.bundesliga:2627:paderborn-einfrankfur:20261107 | 1 | 0 | `79ed0cbf2158e05e…` | `491b51cc848c701c…` |
