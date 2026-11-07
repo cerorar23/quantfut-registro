@@ -312,3 +312,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-07 de.bundesliga:2627:rbleipzig-augsburg:20261107 | 1 | 0 | `c7c48f2d6db11dd7…` | `5fd0d307e9d5d396…` |
 | 2026-11-07 de.bundesliga:2627:paderborn-einfrankfur:20261107 | 1 | 0 | `79ed0cbf2158e05e…` | `491b51cc848c701c…` |
 | 2026-11-07 gb.premier_league:2627:fulham-newcastle:20261107 | 1 | 0 | `b2e617faa4a0ffcb…` | `949c6995ddc22fd6…` |
+| 2026-11-07 gb.premier_league:2627:arsenal-hull:20261107 | 1 | 0 | `176c08cc2f31aaf8…` | `2d4bd4e9fd7ba79d…` |
