@@ -333,3 +333,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-07 ar.primera:2627:bocajuniors-defensayju:20261108 | 1 | 0 | `56f58cd17f6defb7…` | `f9ca5b1fae8d116c…` |
 | 2026-11-07 ar.primera:2627:rosariocent-estudiantes:20261108 | 1 | 0 | `39c7636b351758bb…` | `953dfd690c04ee43…` |
 | 2026-11-07 ar.primera:2627:argentinosj-huracan:20261108 | 1 | 0 | `f455f281c087c057…` | `dc098a5364e62632…` |
+| 2026-11-07 us.mls:2627:montreal-vancouverwh:20261107 | 1 | 0 | `0098122747102238…` | `c7b3db0d3087f25c…` |
