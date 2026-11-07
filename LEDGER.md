@@ -316,3 +316,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-07 es.laliga:2627:espanol-lacoruna:20261107 | 1 | 0 | `3149e167d9294821…` | `2e2a6ed05a32c630…` |
 | 2026-11-07 pt.primeira:2627:nacional-academicovi:20261107 | 1 | 0 | `115ee44abe68c03e…` | `8f465c4224e7829e…` |
 | 2026-11-07 nl.eredivisie:2627:forsittard-telstar:20261107 | 1 | 0 | `e76b40d1c3529a9d…` | `e3c40d135f49dd08…` |
+| 2026-11-07 it.serie_a:2627:parma-bologna:20261107 | 1 | 0 | `dadf91fc24e689a0…` | `4cbce6a26bedfb43…` |
