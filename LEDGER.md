@@ -305,3 +305,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-07 | 50 | 0 | `745b81f3e7740675…` | `bbb7e8aa1dbf940d…` |
 | 2026-11-07 gb.premier_league:2627:leeds-tottenham:20261107 | 1 | 0 | `45a2e3c51b37351e…` | `f410d0d68647013a…` |
 | 2026-11-07 es.laliga:2627:malaga-racingsanta:20261107 | 1 | 0 | `666d2b97008dca42…` | `507a383f25d381ff…` |
+| 2026-11-07 it.serie_a:2627:torino-lecce:20261107 | 1 | 0 | `06f092a00edd6885…` | `dd15f2ca20890aa8…` |
