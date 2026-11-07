@@ -341,3 +341,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-07 us.mls:2627:dcunited-newyorkcit:20261107 | 1 | 0 | `a2933e8a4e40a9c7…` | `fd29dbcd3769e27a…` |
 | 2026-11-07 us.mls:2627:orlandocity-newengland:20261107 | 1 | 0 | `b83f0777925d701f…` | `38c28430ef2708aa…` |
 | 2026-11-07 us.mls:2627:cincinnati-nashville:20261107 | 1 | 0 | `b69cec6fd8f4a38a…` | `33c3cc858ed91cf8…` |
+| 2026-11-07 mx.liga_mx:2627:atlas-pachuca:20261107 | 1 | 0 | `0a0854e6875a6d5c…` | `47a78fdb990dd97d…` |
