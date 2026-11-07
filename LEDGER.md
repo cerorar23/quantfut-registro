@@ -307,3 +307,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-07 es.laliga:2627:malaga-racingsanta:20261107 | 1 | 0 | `666d2b97008dca42…` | `507a383f25d381ff…` |
 | 2026-11-07 it.serie_a:2627:torino-lecce:20261107 | 1 | 0 | `06f092a00edd6885…` | `dd15f2ca20890aa8…` |
 | 2026-11-07 it.serie_a:2627:cagliari-frosinone:20261107 | 1 | 0 | `b6eecf19afde6987…` | `84eac7b691148caa…` |
+| 2026-11-07 de.bundesliga:2627:mainz-bayernmunic:20261107 | 1 | 0 | `f865ef54ec1b3289…` | `a64a3ac86280bf12…` |
