@@ -381,3 +381,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-08 es.laliga:2627:villarreal-getafe:20261108 | 1 | 0 | `e6904b199d18a902…` | `77fa9a14e71f039a…` |
 | 2026-11-08 es.laliga:2627:celta-levante:20261108 | 1 | 0 | `710ff64c4c720a59…` | `824eb2ab7b8bcfec…` |
 | 2026-11-08 pt.primeira:2627:guimaraes-porto:20261108 | 1 | 0 | `d3146a98b1f81ab4…` | `bc9129cbd276b2a6…` |
+| 2026-11-08 de.bundesliga:2627:hoffenheim-schalke04:20261108 | 1 | 0 | `1b916bbaf99429fa…` | `7b7221bf5fe9b36a…` |
