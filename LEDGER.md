@@ -387,3 +387,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-08 fr.ligue_1:2627:lens-marseille:20261108 | 1 | 0 | `4c73d45d4798e341…` | `6625becf26b7272a…` |
 | 2026-11-08 es.laliga:2627:athmadrid-barcelona:20261108 | 1 | 0 | `f7343c57f15eef8d…` | `30589f788688a6c4…` |
 | 2026-11-08 pt.primeira:2627:rioave-spbraga:20261108 | 1 | 0 | `def1c4c13eaa2df9…` | `8be356a6ee7ca217…` |
+| 2026-11-08 pt.primeira:2627:estrela-benfica:20261108 | 1 | 0 | `11d200d122db6c06…` | `9073f5be9f4e9455…` |
