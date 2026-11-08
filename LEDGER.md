@@ -363,3 +363,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-08 gb.premier_league:2627:sunderland-chelsea:20261108 | 1 | 0 | `f32daf9b58281e70…` | `6272a61337d73a57…` |
 | 2026-11-08 it.serie_a:2627:genoa-milan:20261108 | 1 | 0 | `cb62abe29bf2c835…` | `b9105d9d66ef6d20…` |
 | 2026-11-08 it.serie_a:2627:monza-atalanta:20261108 | 1 | 0 | `f29bd70ceeb343d5…` | `4ab5ad8c5f7c907a…` |
+| 2026-11-08 fr.ligue_1:2627:rennes-lille:20261108 | 1 | 0 | `d5b215e2b6dc1b6c…` | `9d96959d8db24d72…` |
