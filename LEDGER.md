@@ -351,3 +351,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-08 us.mls:2627:sandiego-sportingkan:20261108 | 1 | 0 | `19649fb2959ff2ad…` | `cce8ff23d33cec2c…` |
 | 2026-11-08 mx.liga_mx:2627:toluca-monterrey:20261108 | 1 | 0 | `04e460caaba8213c…` | `95f84e686e904017…` |
 | 2026-11-08 mx.liga_mx:2627:tigresuanl-cruzazul:20261107 | 1 | 0 | `996f7bfa4684755f…` | `5ccde248dfd2da74…` |
+| 2026-11-08 ar.primera:2627:instituto-newellsold:20261108 | 1 | 0 | `1bf9aa27fb2e1f24…` | `36b0eb8f8e04ec90…` |
