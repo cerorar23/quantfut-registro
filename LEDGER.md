@@ -354,3 +354,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-08 ar.primera:2627:instituto-newellsold:20261108 | 1 | 0 | `1bf9aa27fb2e1f24…` | `36b0eb8f8e04ec90…` |
 | 2026-11-08 mx.liga_mx:2627:unampumas-america:20261108 | 1 | 0 | `67075137741fac4c…` | `47b983f4b19e267c…` |
 | 2026-11-08 | 37 | 0 | `830c76e65adfec94…` | `91f8ed3e5dd3d4d0…` |
+| 2026-11-08 nl.eredivisie:2627:heerenveen-feyenoord:20261108 | 1 | 0 | `ca8ecfc3cd327887…` | `c8e26238036a7490…` |
