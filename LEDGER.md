@@ -371,3 +371,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-08 pt.primeira:2627:estoril-maritimo:20261108 | 1 | 0 | `c4f1dec29f8bc3e9…` | `c88aeade0935aa00…` |
 | 2026-11-08 nl.eredivisie:2627:azalkmaar-groningen:20261108 | 1 | 0 | `19aa6d26296c130f…` | `802f879ec8a56570…` |
 | 2026-11-08 nl.eredivisie:2627:cambuur-psveindhove:20261108 | 1 | 0 | `d14030ea615c2f71…` | `10d02baaeeaba3bd…` |
+| 2026-11-08 fr.ligue_1:2627:angers-nice:20261108 | 1 | 0 | `ad392ea3a859a4d3…` | `6de323f9a4cabf17…` |
