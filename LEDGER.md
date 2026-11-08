@@ -380,3 +380,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-08 it.serie_a:2627:internaziona-como:20261108 | 1 | 0 | `6f68753586b3a8f6…` | `f3ec3868a1d7f408…` |
 | 2026-11-08 es.laliga:2627:villarreal-getafe:20261108 | 1 | 0 | `e6904b199d18a902…` | `77fa9a14e71f039a…` |
 | 2026-11-08 es.laliga:2627:celta-levante:20261108 | 1 | 0 | `710ff64c4c720a59…` | `824eb2ab7b8bcfec…` |
+| 2026-11-08 pt.primeira:2627:guimaraes-porto:20261108 | 1 | 0 | `d3146a98b1f81ab4…` | `bc9129cbd276b2a6…` |
