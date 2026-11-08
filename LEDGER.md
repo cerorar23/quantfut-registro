@@ -369,3 +369,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-08 es.laliga:2627:sociedad-vallecano:20261108 | 1 | 0 | `5fb7162c2aacd511…` | `1721fc4eb3d8716c…` |
 | 2026-11-08 pt.primeira:2627:santaclara-gilvicente:20261108 | 1 | 0 | `987ec8a9dcf08049…` | `ae3ad9174295d8cb…` |
 | 2026-11-08 pt.primeira:2627:estoril-maritimo:20261108 | 1 | 0 | `c4f1dec29f8bc3e9…` | `c88aeade0935aa00…` |
+| 2026-11-08 nl.eredivisie:2627:azalkmaar-groningen:20261108 | 1 | 0 | `19aa6d26296c130f…` | `802f879ec8a56570…` |
