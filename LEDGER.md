@@ -377,3 +377,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-08 fr.ligue_1:2627:lemans-monaco:20261108 | 1 | 0 | `5f39322d21940c38…` | `dd95b095b30f6dc8…` |
 | 2026-11-08 de.bundesliga:2627:freiburg-unionberlin:20261108 | 1 | 0 | `4c8cb347203ed095…` | `4bb2d53dc1e24fa5…` |
 | 2026-11-08 gb.premier_league:2627:manchesteru-astonvilla:20261108 | 1 | 0 | `bf8f940dbd68ae37…` | `7a696b21f9d5c7d9…` |
+| 2026-11-08 it.serie_a:2627:internaziona-como:20261108 | 1 | 0 | `6f68753586b3a8f6…` | `f3ec3868a1d7f408…` |
