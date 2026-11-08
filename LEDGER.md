@@ -385,3 +385,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-08 nl.eredivisie:2627:utrecht-nijmegen:20261108 | 1 | 0 | `0bf3727690b8e37e…` | `02b40712788bee21…` |
 | 2026-11-08 it.serie_a:2627:fiorentina-juventus:20261108 | 1 | 0 | `36b62aa90a9d6b7f…` | `b76355a4b13277d1…` |
 | 2026-11-08 fr.ligue_1:2627:lens-marseille:20261108 | 1 | 0 | `4c73d45d4798e341…` | `6625becf26b7272a…` |
+| 2026-11-08 es.laliga:2627:athmadrid-barcelona:20261108 | 1 | 0 | `f7343c57f15eef8d…` | `30589f788688a6c4…` |
