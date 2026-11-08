@@ -389,3 +389,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-08 pt.primeira:2627:rioave-spbraga:20261108 | 1 | 0 | `def1c4c13eaa2df9…` | `8be356a6ee7ca217…` |
 | 2026-11-08 pt.primeira:2627:estrela-benfica:20261108 | 1 | 0 | `11d200d122db6c06…` | `9073f5be9f4e9455…` |
 | 2026-11-08 ar.primera:2627:centralcord-lanus:20261108 | 1 | 0 | `63e4566062e3b510…` | `c80022fb8375d74f…` |
+| 2026-11-09 mx.liga_mx:2627:queretaro-puebla:20261109 | 1 | 0 | `dddab61c08996f44…` | `e95a20125d8296d5…` |
