@@ -366,3 +366,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-08 fr.ligue_1:2627:rennes-lille:20261108 | 1 | 0 | `d5b215e2b6dc1b6c…` | `9d96959d8db24d72…` |
 | 2026-11-08 gb.premier_league:2627:ipswich-bournemouth:20261108 | 1 | 0 | `5af01e68f06c5e31…` | `a0aa1a93062fe01c…` |
 | 2026-11-08 de.bundesliga:2627:koln-leverkusen:20261108 | 1 | 0 | `d01249ce68cdb675…` | `15080038fba7db9c…` |
+| 2026-11-08 es.laliga:2627:sociedad-vallecano:20261108 | 1 | 0 | `5fb7162c2aacd511…` | `1721fc4eb3d8716c…` |
