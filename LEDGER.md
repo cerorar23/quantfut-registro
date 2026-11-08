@@ -360,3 +360,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-08 nl.eredivisie:2627:twente-ajax:20261108 | 1 | 0 | `1869425db439b4bd…` | `ecf2e983583ead90…` |
 | 2026-11-08 gb.premier_league:2627:brighton-brentford:20261108 | 1 | 0 | `01ee0078065090ca…` | `01240677cb00203d…` |
 | 2026-11-08 gb.premier_league:2627:crystalpala-liverpool:20261108 | 1 | 0 | `d887472b453d195f…` | `4bfb9a0cfc28a69a…` |
+| 2026-11-08 gb.premier_league:2627:sunderland-chelsea:20261108 | 1 | 0 | `f32daf9b58281e70…` | `6272a61337d73a57…` |
