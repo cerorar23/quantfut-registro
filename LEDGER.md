@@ -349,3 +349,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-08 us.mls:2627:realsaltla-losangeles:20261108 | 1 | 0 | `f860261a95fea40a…` | `a594b28c10b0105c…` |
 | 2026-11-08 us.mls:2627:dallas-coloradorap:20261108 | 1 | 0 | `2ac2053475cfafb9…` | `fc5d063b2afa529d…` |
 | 2026-11-08 us.mls:2627:sandiego-sportingkan:20261108 | 1 | 0 | `19649fb2959ff2ad…` | `cce8ff23d33cec2c…` |
+| 2026-11-08 mx.liga_mx:2627:toluca-monterrey:20261108 | 1 | 0 | `04e460caaba8213c…` | `95f84e686e904017…` |
