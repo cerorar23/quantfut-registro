@@ -357,3 +357,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-08 nl.eredivisie:2627:heerenveen-feyenoord:20261108 | 1 | 0 | `ca8ecfc3cd327887…` | `c8e26238036a7490…` |
 | 2026-11-08 it.serie_a:2627:napoli-lazio:20261108 | 1 | 0 | `da6b5bf9c5bbfb9b…` | `a1744d6b802b6d5d…` |
 | 2026-11-08 es.laliga:2627:elche-betis:20261108 | 1 | 0 | `7a608a84cfc5ea95…` | `43a4d8bd4513f2ea…` |
+| 2026-11-08 nl.eredivisie:2627:twente-ajax:20261108 | 1 | 0 | `1869425db439b4bd…` | `ecf2e983583ead90…` |
