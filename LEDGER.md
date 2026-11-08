@@ -374,3 +374,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-08 fr.ligue_1:2627:angers-nice:20261108 | 1 | 0 | `ad392ea3a859a4d3…` | `6de323f9a4cabf17…` |
 | 2026-11-08 fr.ligue_1:2627:brest-lyon:20261108 | 1 | 0 | `f1ec09e93acfb109…` | `d73cc3d68705e23b…` |
 | 2026-11-08 fr.ligue_1:2627:lehavre-lorient:20261108 | 1 | 0 | `e677caea25f74786…` | `8f5df8edaf6a4741…` |
+| 2026-11-08 fr.ligue_1:2627:lemans-monaco:20261108 | 1 | 0 | `5f39322d21940c38…` | `dd95b095b30f6dc8…` |
