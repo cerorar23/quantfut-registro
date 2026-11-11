@@ -393,3 +393,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-09 mx.liga_mx:2627:leon-guadalajara:20261109 | 1 | 0 | `5337d65b10a3bab3…` | `5498363d8454f164…` |
 | 2026-11-11 78d087a5-0f68-47b1-acba-6360342a6ebe | 0 | 1 | `84e761d7374029b4…` | `a4b4fba186dbcd33…` |
 | 2026-11-11 | 0 | 0 | `e2a8082ac5e95449…` | `b22fa3642c06422a…` |
+| 2026-11-11 f0caadb1-180e-4268-a994-4181f1fe8f13 | 0 | 1 | `a2c506a29f38558e…` | `a20d1126be73f561…` |
