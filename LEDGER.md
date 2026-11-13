@@ -396,3 +396,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-11 f0caadb1-180e-4268-a994-4181f1fe8f13 | 0 | 1 | `a2c506a29f38558e…` | `a20d1126be73f561…` |
 | 2026-11-12 | 0 | 0 | `d36b2ae9a04e7c14…` | `b9c099948c44f88a…` |
 | 2026-11-13 | 1 | 0 | `7cb577b49ad627c7…` | `e25a96f064d0f6b8…` |
+| 2026-11-13 es.laliga2:2627:leganes-burgos:20261113 | 1 | 0 | `c9bf9c1012975fa9…` | `dc297c8afb4895f4…` |
