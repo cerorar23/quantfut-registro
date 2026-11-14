@@ -399,3 +399,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-13 es.laliga2:2627:leganes-burgos:20261113 | 1 | 0 | `c9bf9c1012975fa9…` | `dc297c8afb4895f4…` |
 | 2026-11-13 06a61b39-2a17-4349-841f-3edbcadbb345 | 0 | 1 | `c9ae8eb9f9fbb4c9…` | `e40e5e9763e15a92…` |
 | 2026-11-14 | 8 | 0 | `ef334c00ba186ef3…` | `ae881f52ead2ccd2…` |
+| 2026-11-14 es.laliga2:2627:valladolid-castellon:20261114 | 1 | 0 | `1355a7376fc419ac…` | `a989212c00298378…` |
