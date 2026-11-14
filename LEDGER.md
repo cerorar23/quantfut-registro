@@ -406,3 +406,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-14 es.laliga2:2627:oviedo-girona:20261114 | 1 | 0 | `a9bec50f8d70bb1e…` | `39b8e221e63feb74…` |
 | 2026-11-14 br.serie_a:2627:mirassol-atleticomg:20261114 | 1 | 0 | `251a7558c5ea9df5…` | `672d7a3d1b020948…` |
 | 2026-11-14 ee265166-481d-401f-8b72-1f0842c799a8 | 0 | 1 | `e43ce90bc3059d2e…` | `750b8b59d61ecec9…` |
+| 2026-11-14 mx.liga_mx:2627:monterrey-queretaro:20261114 | 1 | 0 | `179cece35fd00938…` | `fbbec22741f6ce73…` |
