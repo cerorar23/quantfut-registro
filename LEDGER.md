@@ -402,3 +402,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-14 es.laliga2:2627:valladolid-castellon:20261114 | 1 | 0 | `1355a7376fc419ac…` | `a989212c00298378…` |
 | 2026-11-14 es.laliga2:2627:realsocieda-spgijon:20261114 | 1 | 0 | `04252426da0e9af9…` | `0d06655bb742e1e4…` |
 | 2026-11-14 es.laliga2:2627:almeria-andorra:20261114 | 1 | 0 | `1cb52800928118fb…` | `8c16b8647970bf63…` |
+| 2026-11-14 es.laliga2:2627:mallorca-cordoba:20261114 | 1 | 0 | `64906d7f52f26d6a…` | `62f7cd2dccb128fb…` |
