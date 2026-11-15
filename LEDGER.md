@@ -414,3 +414,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-15 es.laliga2:2627:granada-laspalmas:20261115 | 1 | 0 | `7501c8c03b60eb5b…` | `5b6f0ff1f12e3377…` |
 | 2026-11-15 dd035a39-c526-428a-ba11-04038c7f66c0 | 0 | 1 | `e8bd27edb04d0127…` | `9b616c4a06b7480b…` |
 | 2026-11-15 12c19eab-9b4a-4ed4-b9f2-d42013083da7 | 0 | 1 | `78954307950101db…` | `57dd97fd74d4fec7…` |
+| 2026-11-15 es.laliga2:2627:eldense-sabadell:20261115 | 1 | 0 | `8b80515fdf68efec…` | `16723ab34bf48e70…` |
