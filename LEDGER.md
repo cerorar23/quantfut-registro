@@ -412,3 +412,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-15 eec2d998-7ccd-4e46-a529-48c26e5ed21f | 0 | 1 | `b74eefedaae013b3…` | `2eb2c46d73d056ae…` |
 | 2026-11-15 es.laliga2:2627:tenerife-adceuta:20261115 | 1 | 0 | `9bf6adde3f44ce87…` | `211dcdc592ab084a…` |
 | 2026-11-15 es.laliga2:2627:granada-laspalmas:20261115 | 1 | 0 | `7501c8c03b60eb5b…` | `5b6f0ff1f12e3377…` |
+| 2026-11-15 dd035a39-c526-428a-ba11-04038c7f66c0 | 0 | 1 | `e8bd27edb04d0127…` | `9b616c4a06b7480b…` |
