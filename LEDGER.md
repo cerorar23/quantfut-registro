@@ -418,3 +418,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-15 es.laliga2:2627:eibar-cadiz:20261115 | 1 | 0 | `7e5b6f1c4712bc7f…` | `6cdf4f6b0168d1e6…` |
 | 2026-11-16 87548555-b667-4d14-9001-c853a91672d2 | 0 | 1 | `f48625e346955683…` | `7fc786a3324a0fcc…` |
 | 2026-11-16 | 1 | 0 | `3666c61b88ec8a54…` | `ec8c4a4a3f73b898…` |
+| 2026-11-16 es.laliga2:2627:albacete-celtadevig:20261116 | 1 | 0 | `ab614ccd7af4e1f4…` | `debc0f1c27609276…` |
