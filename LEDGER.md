@@ -421,3 +421,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-16 es.laliga2:2627:albacete-celtadevig:20261116 | 1 | 0 | `ab614ccd7af4e1f4…` | `debc0f1c27609276…` |
 | 2026-11-18 | 6 | 0 | `9a05ea7dc2c9c4f2…` | `85fdb5437b36977b…` |
 | 2026-11-18 3a895a6b-7d6d-4a1e-a947-e9e253f18a35 | 0 | 1 | `40472cacefcbbf72…` | `9f4f2110c02980a4…` |
+| 2026-11-18 br.serie_a:2627:coritiba-santos:20261118 | 1 | 0 | `8af1c2fed713ab14…` | `fff383e7c99a5a7d…` |
