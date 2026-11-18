@@ -419,3 +419,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-16 87548555-b667-4d14-9001-c853a91672d2 | 0 | 1 | `f48625e346955683…` | `7fc786a3324a0fcc…` |
 | 2026-11-16 | 1 | 0 | `3666c61b88ec8a54…` | `ec8c4a4a3f73b898…` |
 | 2026-11-16 es.laliga2:2627:albacete-celtadevig:20261116 | 1 | 0 | `ab614ccd7af4e1f4…` | `debc0f1c27609276…` |
+| 2026-11-18 | 6 | 0 | `9a05ea7dc2c9c4f2…` | `85fdb5437b36977b…` |
