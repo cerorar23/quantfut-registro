@@ -424,3 +424,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-18 br.serie_a:2627:coritiba-santos:20261118 | 1 | 0 | `8af1c2fed713ab14…` | `fff383e7c99a5a7d…` |
 | 2026-11-18 br.serie_a:2627:remo-chapecoense:20261118 | 1 | 0 | `09a13a13a57f8c8b…` | `75865ad9282ac3ca…` |
 | 2026-11-18 br.serie_a:2627:flamengorj-athleticopr:20261118 | 1 | 0 | `07fa255ea9b7f8b4…` | `a1b95d9dd633bc36…` |
+| 2026-11-18 br.serie_a:2627:cruzeiro-palmeiras:20261118 | 1 | 0 | `4aebc089f9d07efc…` | `0d45ce149bc5c280…` |
