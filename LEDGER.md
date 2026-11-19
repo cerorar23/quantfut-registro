@@ -431,3 +431,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-19 | 5 | 0 | `48516aa6eab2d6cc…` | `82faebd2eb8cc53f…` |
 | 2026-11-19 ec400ff1-d79c-4d2e-bc1b-b7ac8f717923 | 0 | 1 | `4b8ad1e4fbd20845…` | `311d326d58461d46…` |
 | 2026-11-19 2310331b-4259-4737-a428-12a26b3e1cc5 | 0 | 1 | `76ccaa72c248457c…` | `3d2411466e45ff57…` |
+| 2026-11-19 br.serie_a:2627:vasco-internaciona:20261119 | 1 | 0 | `52e11ac1930f8ba8…` | `c347aab0c83da48c…` |
