@@ -429,3 +429,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-19 br.serie_a:2627:corinthians-botafogorj:20261119 | 1 | 0 | `163c3353c906f8df…` | `b6744799829f685f…` |
 | 2026-11-19 998f300d-1317-49eb-8cad-6b97b4e0de77 | 0 | 1 | `7849b90e1c1efe3b…` | `ed7badfaecebe4b0…` |
 | 2026-11-19 | 5 | 0 | `48516aa6eab2d6cc…` | `82faebd2eb8cc53f…` |
+| 2026-11-19 ec400ff1-d79c-4d2e-bc1b-b7ac8f717923 | 0 | 1 | `4b8ad1e4fbd20845…` | `311d326d58461d46…` |
