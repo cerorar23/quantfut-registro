@@ -433,3 +433,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-19 2310331b-4259-4737-a428-12a26b3e1cc5 | 0 | 1 | `76ccaa72c248457c…` | `3d2411466e45ff57…` |
 | 2026-11-19 br.serie_a:2627:vasco-internaciona:20261119 | 1 | 0 | `52e11ac1930f8ba8…` | `c347aab0c83da48c…` |
 | 2026-11-19 br.serie_a:2627:vitoria-bragantino:20261119 | 1 | 0 | `93ed4fd870d8c234…` | `efc113d226736d6d…` |
+| 2026-11-19 8a791ebd-d9e4-4472-8f1e-4bb0939bf3b4 | 0 | 1 | `7f7289705273665d…` | `312d88d280bccfbb…` |
