@@ -436,3 +436,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-19 8a791ebd-d9e4-4472-8f1e-4bb0939bf3b4 | 0 | 1 | `7f7289705273665d…` | `312d88d280bccfbb…` |
 | 2026-11-19 c73c74eb-ec4c-4d66-8557-c23638213427 | 0 | 1 | `feda0b9b519363b6…` | `79e7174d84d3c099…` |
 | 2026-11-20 br.serie_a:2627:saopaulo-fluminense:20261120 | 1 | 0 | `c053b339dababd7c…` | `aa071963ed1d6b1c…` |
+| 2026-11-20 us.mls:2627:orlandocity-cincinnati:20261120 | 1 | 0 | `eb6d30c0b771a29f…` | `fe0e1b9349e04a8f…` |
