@@ -435,3 +435,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-19 br.serie_a:2627:vitoria-bragantino:20261119 | 1 | 0 | `93ed4fd870d8c234…` | `efc113d226736d6d…` |
 | 2026-11-19 8a791ebd-d9e4-4472-8f1e-4bb0939bf3b4 | 0 | 1 | `7f7289705273665d…` | `312d88d280bccfbb…` |
 | 2026-11-19 c73c74eb-ec4c-4d66-8557-c23638213427 | 0 | 1 | `feda0b9b519363b6…` | `79e7174d84d3c099…` |
+| 2026-11-20 br.serie_a:2627:saopaulo-fluminense:20261120 | 1 | 0 | `c053b339dababd7c…` | `aa071963ed1d6b1c…` |
