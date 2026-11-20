@@ -449,3 +449,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-20 fr.ligue_1:2627:troyes-lehavre:20261120 | 1 | 0 | `e71368f39bf86723…` | `5cfcb82b0f9227df…` |
 | 2026-11-20 f19fceaa-c1e2-4f04-a73a-9044cf7628a5 | 0 | 1 | `0f58579d2e0ade16…` | `5c859b6d7d8951c0…` |
 | 2026-11-20 es.laliga:2627:athbilbao-espanol:20261120 | 1 | 0 | `307eb04a9763857e…` | `c82426a25e7dea61…` |
+| 2026-11-20 ar.primera:2627:velezsarsfi-belgrano:20261120 | 1 | 0 | `4ebff007de1e185e…` | `dd7900a4c6380698…` |
