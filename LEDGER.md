@@ -444,3 +444,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-20 f08df271-2e14-4aa1-a0a6-312e1fb46032 | 0 | 1 | `4f3de628b14a1315…` | `9576e566690d1932…` |
 | 2026-11-20 ffad4bda-2819-41c0-8589-27bcc0432d72 | 0 | 1 | `4f15f8d9811f71d7…` | `eb6ebb88ec31c892…` |
 | 2026-11-20 it.serie_b:2627:verona-cesena:20261120 | 1 | 0 | `e4998287a76cf2d6…` | `c032a16a105d894e…` |
+| 2026-11-20 es.laliga2:2627:andorra-leganes:20261120 | 1 | 0 | `7a087c4f8d4ad085…` | `0f2894578dfd9d8e…` |
