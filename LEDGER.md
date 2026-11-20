@@ -442,3 +442,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-20 dc5f4bc7-8f40-4590-8b75-92c790f930bf | 0 | 1 | `dac8b56ec91a16fa…` | `05eacdf2572f7e96…` |
 | 2026-11-20 | 9 | 0 | `6175df2c51376c89…` | `ff9ed2c852e7a450…` |
 | 2026-11-20 f08df271-2e14-4aa1-a0a6-312e1fb46032 | 0 | 1 | `4f3de628b14a1315…` | `9576e566690d1932…` |
+| 2026-11-20 ffad4bda-2819-41c0-8589-27bcc0432d72 | 0 | 1 | `4f15f8d9811f71d7…` | `eb6ebb88ec31c892…` |
