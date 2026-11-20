@@ -446,3 +446,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-20 it.serie_b:2627:verona-cesena:20261120 | 1 | 0 | `e4998287a76cf2d6…` | `c032a16a105d894e…` |
 | 2026-11-20 es.laliga2:2627:andorra-leganes:20261120 | 1 | 0 | `7a087c4f8d4ad085…` | `0f2894578dfd9d8e…` |
 | 2026-11-20 de.bundesliga:2627:bayernmunic-koln:20261120 | 1 | 0 | `7014a5737cdce1bb…` | `4faf45a9e90c5fbb…` |
+| 2026-11-20 fr.ligue_1:2627:troyes-lehavre:20261120 | 1 | 0 | `e71368f39bf86723…` | `5cfcb82b0f9227df…` |
