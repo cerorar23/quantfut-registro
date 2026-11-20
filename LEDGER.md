@@ -439,3 +439,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-20 us.mls:2627:orlandocity-cincinnati:20261120 | 1 | 0 | `eb6d30c0b771a29f…` | `fe0e1b9349e04a8f…` |
 | 2026-11-20 us.mls:2627:seattlesoun-realsaltla:20261120 | 1 | 0 | `3917b21d889d2db6…` | `fb81c5f2d22411f3…` |
 | 2026-11-20 2635a438-03d4-4e69-9391-5eb6b436b58d | 0 | 1 | `5a861d8ca3694b99…` | `39789291c78371da…` |
+| 2026-11-20 dc5f4bc7-8f40-4590-8b75-92c790f930bf | 0 | 1 | `dac8b56ec91a16fa…` | `05eacdf2572f7e96…` |
