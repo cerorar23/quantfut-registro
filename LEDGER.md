@@ -467,3 +467,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-21 it.serie_b:2627:ascoli-vicenzavirt:20261121 | 1 | 0 | `e74b65c4619f2ec4…` | `7e0ccfaf875cbc8a…` |
 | 2026-11-21 it.serie_a:2627:como-cagliari:20261121 | 1 | 0 | `5ed13d79cc547e3c…` | `5375ac49b27ece3f…` |
 | 2026-11-21 it.serie_a:2627:lazio-lecce:20261121 | 1 | 0 | `67008f449e953554…` | `355050a0aaf20890…` |
+| 2026-11-21 se.allsvenskan:2627:mjallbyaif-malmoff:20261121 | 1 | 0 | `cfa8f5fcc70cd4fb…` | `fef0a9d18ffb8c67…` |
