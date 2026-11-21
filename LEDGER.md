@@ -489,3 +489,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-21 it.serie_a:2627:parma-roma:20261121 | 1 | 0 | `b8448f36be316628…` | `c53029833ead6dcf…` |
 | 2026-11-21 gb.premier_league:2627:newcastle-arsenal:20261121 | 1 | 0 | `8f539d9a062f6fc1…` | `594cdb34fcc403d7…` |
 | 2026-11-21 de.bundesliga:2627:schalke04-stuttgart:20261121 | 1 | 0 | `ed456a103b4afa8f…` | `7c14e13c965df4e9…` |
+| 2026-11-21 es.laliga:2627:sevilla-betis:20261121 | 1 | 0 | `8452e4fb0bd4a873…` | `9e5475834a6699ba…` |
