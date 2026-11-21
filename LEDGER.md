@@ -498,3 +498,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-21 us.mls:2627:newengland-philadelphia:20261121 | 1 | 0 | `b1c9fe3a2d599c85…` | `b4617c32bbf61363…` |
 | 2026-11-21 br.serie_a:2627:palmeiras-flamengorj:20261121 | 1 | 0 | `5345e430d8864e53…` | `4bb03d0ae0b733fd…` |
 | 2026-11-21 fr.ligue_1:2627:lille-lyon:20261121 | 1 | 0 | `03b608d4e0043116…` | `6024c634420cddd8…` |
+| 2026-11-21 fr.ligue_1:2627:lens-toulouse:20261121 | 1 | 0 | `7bdb9016fa62fd90…` | `5f21ac4ec4bc6f1d…` |
