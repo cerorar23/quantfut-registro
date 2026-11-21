@@ -474,3 +474,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-21 de.bundesliga:2627:leverkusen-paderborn:20261121 | 1 | 0 | `79fd82705bd6274f…` | `7807bf4d9345fc00…` |
 | 2026-11-21 de.bundesliga:2627:einfrankfur-hoffenheim:20261121 | 1 | 0 | `61b97bca9ce687fc…` | `650391b6a2b73df1…` |
 | 2026-11-21 de.bundesliga:2627:elversberg-freiburg:20261121 | 1 | 0 | `b4c637c66780cd60…` | `4393fd64008533de…` |
+| 2026-11-21 gb.premier_league:2627:chelsea-leeds:20261121 | 1 | 0 | `4956d5a202b5abf4…` | `81cf93ba84009dbd…` |
