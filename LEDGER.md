@@ -511,3 +511,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-21 br.serie_a:2627:bahia-coritiba:20261121 | 1 | 0 | `437faec661b46903…` | `517c6f3f40752640…` |
 | 2026-11-21 us.mls:2627:dallas-portlandtim:20261121 | 1 | 0 | `8892053c74ad1e0a…` | `06f5cb747b1dcd02…` |
 | 2026-11-21 mx.liga_mx:2627:santoslagun-leon:20261121 | 1 | 0 | `a1c9d8b80e44eb2a…` | `e0ceef10a710d76c…` |
+| 2026-11-21 us.mls:2627:internaziona-columbuscre:20261121 | 1 | 0 | `0b49c511537fb936…` | `ee4aec33290b5640…` |
