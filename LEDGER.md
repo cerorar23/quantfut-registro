@@ -483,3 +483,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-21 es.laliga2:2627:realsocieda-cadiz:20261121 | 1 | 0 | `ddab2f9a79b518e3…` | `71f1ff756a0a59a0…` |
 | 2026-11-21 nl.eredivisie:2627:nijmegen-psveindhove:20261121 | 1 | 0 | `eb9829a949d8f716…` | `ce383817d8f6569e…` |
 | 2026-11-21 tr.super_lig:2627:kocaelispor-fenerbahce:20261121 | 1 | 0 | `8e1851abb6f83245…` | `cdb7021b9334ba9c…` |
+| 2026-11-21 fr.ligue_1:2627:nice-parissg:20261121 | 1 | 0 | `564218af3f685353…` | `0f253e924c9fed40…` |
