@@ -485,3 +485,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-21 tr.super_lig:2627:kocaelispor-fenerbahce:20261121 | 1 | 0 | `8e1851abb6f83245…` | `cdb7021b9334ba9c…` |
 | 2026-11-21 fr.ligue_1:2627:nice-parissg:20261121 | 1 | 0 | `564218af3f685353…` | `0f253e924c9fed40…` |
 | 2026-11-21 it.serie_b:2627:catanzaro-palermo:20261121 | 1 | 0 | `48e16ffba4a6d6ae…` | `36a325e0c23a6d18…` |
+| 2026-11-21 se.allsvenskan:2627:gais-vasterassk:20261121 | 1 | 0 | `b479df562b8d2f26…` | `b65fd76bb7614982…` |
