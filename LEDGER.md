@@ -469,3 +469,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-21 it.serie_a:2627:lazio-lecce:20261121 | 1 | 0 | `67008f449e953554…` | `355050a0aaf20890…` |
 | 2026-11-21 se.allsvenskan:2627:mjallbyaif-malmoff:20261121 | 1 | 0 | `cfa8f5fcc70cd4fb…` | `fef0a9d18ffb8c67…` |
 | 2026-11-21 it.serie_b:2627:carrarese-virtusentel:20261121 | 1 | 0 | `15a44da542c030f0…` | `7db0f876858f24de…` |
+| 2026-11-21 de.bundesliga:2627:unionberlin-rbleipzig:20261121 | 1 | 0 | `a8bd247d6f662176…` | `a82eb86ac0a13871…` |
