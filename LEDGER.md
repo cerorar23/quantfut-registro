@@ -492,3 +492,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-21 es.laliga:2627:sevilla-betis:20261121 | 1 | 0 | `8452e4fb0bd4a873…` | `9e5475834a6699ba…` |
 | 2026-11-21 es.laliga2:2627:castellon-eldense:20261121 | 1 | 0 | `87c0c383520d56d4…` | `5922dc3e522ab484…` |
 | 2026-11-21 nl.eredivisie:2627:utrecht-cambuur:20261121 | 1 | 0 | `de7da2dd82da1010…` | `11ec9f4ecc767198…` |
+| 2026-11-21 nl.eredivisie:2627:feyenoord-excelsior:20261121 | 1 | 0 | `74d5ea27495fcdda…` | `9ab124cc578e65b9…` |
