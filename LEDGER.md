@@ -502,3 +502,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-21 fr.ligue_1:2627:strasbourg-brest:20261121 | 1 | 0 | `374ff66746513e76…` | `45545e8a61ae21b5…` |
 | 2026-11-21 it.serie_a:2627:napoli-torino:20261121 | 1 | 0 | `26c989fa17d50373…` | `6c116a5056223f03…` |
 | 2026-11-21 fr.ligue_1:2627:monaco-auxerre:20261121 | 1 | 0 | `9c9b0d8f9807fee9…` | `b629cceb1a8a1d80…` |
+| 2026-11-21 nl.eredivisie:2627:telstar-zwolle:20261121 | 1 | 0 | `9227e1713d0b6ab9…` | `16783173a8014562…` |
