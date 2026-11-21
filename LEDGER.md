@@ -455,3 +455,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-21 mx.liga_mx:2627:tijuana-atlante:20261121 | 1 | 0 | `6f679568da62e29e…` | `5e9825b9d2e7433d…` |
 | 2026-11-21 | 61 | 0 | `92dd9eff1587db4d…` | `0d637b3422b624ab…` |
 | 2026-11-21 tr.super_lig:2627:genclerbirli-gaziantepfk:20261121 | 1 | 0 | `8dcdf6d02afceb45…` | `db7430df78bfe055…` |
+| 2026-11-21 gb.premier_league:2627:manchesterc-fulham:20261121 | 1 | 0 | `a8e6375dfdff84f2…` | `4e4975638a217206…` |
