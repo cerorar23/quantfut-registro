@@ -464,3 +464,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-21 it.serie_b:2627:modena-juvestabia:20261121 | 1 | 0 | `257fd4c9e33ef902…` | `e3109f96e9fa62d3…` |
 | 2026-11-21 it.serie_b:2627:sudtirol-cremonese:20261121 | 1 | 0 | `caa75ea41cae94b4…` | `9d3d82f4d39bbc02…` |
 | 2026-11-21 it.serie_b:2627:sampdoria-benevento:20261121 | 1 | 0 | `f3d76cd30c57bb56…` | `a07e6789bec894e1…` |
+| 2026-11-21 it.serie_b:2627:ascoli-vicenzavirt:20261121 | 1 | 0 | `e74b65c4619f2ec4…` | `7e0ccfaf875cbc8a…` |
