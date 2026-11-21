@@ -500,3 +500,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-21 fr.ligue_1:2627:lille-lyon:20261121 | 1 | 0 | `03b608d4e0043116…` | `6024c634420cddd8…` |
 | 2026-11-21 fr.ligue_1:2627:lens-toulouse:20261121 | 1 | 0 | `7bdb9016fa62fd90…` | `5f21ac4ec4bc6f1d…` |
 | 2026-11-21 fr.ligue_1:2627:strasbourg-brest:20261121 | 1 | 0 | `374ff66746513e76…` | `45545e8a61ae21b5…` |
+| 2026-11-21 it.serie_a:2627:napoli-torino:20261121 | 1 | 0 | `26c989fa17d50373…` | `6c116a5056223f03…` |
