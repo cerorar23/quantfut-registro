@@ -450,3 +450,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-20 f19fceaa-c1e2-4f04-a73a-9044cf7628a5 | 0 | 1 | `0f58579d2e0ade16…` | `5c859b6d7d8951c0…` |
 | 2026-11-20 es.laliga:2627:athbilbao-espanol:20261120 | 1 | 0 | `307eb04a9763857e…` | `c82426a25e7dea61…` |
 | 2026-11-20 ar.primera:2627:velezsarsfi-belgrano:20261120 | 1 | 0 | `4ebff007de1e185e…` | `dd7900a4c6380698…` |
+| 2026-11-21 mx.liga_mx:2627:puebla-atleticosan:20261121 | 1 | 0 | `5de10e2e7880c4b0…` | `4c0ca62e3927dbca…` |
