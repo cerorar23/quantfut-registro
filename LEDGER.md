@@ -451,3 +451,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-20 es.laliga:2627:athbilbao-espanol:20261120 | 1 | 0 | `307eb04a9763857e…` | `c82426a25e7dea61…` |
 | 2026-11-20 ar.primera:2627:velezsarsfi-belgrano:20261120 | 1 | 0 | `4ebff007de1e185e…` | `dd7900a4c6380698…` |
 | 2026-11-21 mx.liga_mx:2627:puebla-atleticosan:20261121 | 1 | 0 | `5de10e2e7880c4b0…` | `4c0ca62e3927dbca…` |
+| 2026-11-21 mx.liga_mx:2627:juarez-atlas:20261121 | 1 | 0 | `7eb81646b62cc061…` | `81006718a2ae3f6d…` |
