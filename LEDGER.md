@@ -457,3 +457,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-21 tr.super_lig:2627:genclerbirli-gaziantepfk:20261121 | 1 | 0 | `8dcdf6d02afceb45…` | `db7430df78bfe055…` |
 | 2026-11-21 gb.premier_league:2627:manchesterc-fulham:20261121 | 1 | 0 | `a8e6375dfdff84f2…` | `4e4975638a217206…` |
 | 2026-11-21 es.laliga:2627:alaves-lacoruna:20261121 | 1 | 0 | `4bd3e45c595af20e…` | `b5603d7f32fb39ba…` |
+| 2026-11-21 tr.super_lig:2627:galatasaray-samsunspor:20261121 | 1 | 0 | `7d07d674daee9ca6…` | `970a9507b1f6fcce…` |
