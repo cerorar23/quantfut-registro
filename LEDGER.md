@@ -495,3 +495,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-21 nl.eredivisie:2627:feyenoord-excelsior:20261121 | 1 | 0 | `74d5ea27495fcdda…` | `9ab124cc578e65b9…` |
 | 2026-11-21 ar.primera:2627:defensayju-barracascen:20261120 | 1 | 0 | `e3bc4a307e8376d1…` | `9870425a717fe212…` |
 | 2026-11-21 it.serie_b:2627:empoli-pisa:20261121 | 1 | 0 | `68d5671f77f8c9af…` | `4b776def7d53ae8e…` |
+| 2026-11-21 us.mls:2627:newengland-philadelphia:20261121 | 1 | 0 | `b1c9fe3a2d599c85…` | `b4617c32bbf61363…` |
