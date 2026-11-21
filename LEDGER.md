@@ -480,3 +480,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-21 gb.premier_league:2627:coventry-crystalpala:20261121 | 1 | 0 | `e7e09e3e207c0969…` | `534f568efd2dd7b9…` |
 | 2026-11-21 gb.premier_league:2627:astonvilla-sunderland:20261121 | 1 | 0 | `e44afbaa50d24208…` | `2c54b14356cd3ac1…` |
 | 2026-11-21 es.laliga:2627:vallecano-valencia:20261121 | 1 | 0 | `7ca5af2c4673899f…` | `b9f442f64f750723…` |
+| 2026-11-21 es.laliga2:2627:realsocieda-cadiz:20261121 | 1 | 0 | `ddab2f9a79b518e3…` | `71f1ff756a0a59a0…` |
