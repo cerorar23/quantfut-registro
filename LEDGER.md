@@ -477,3 +477,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-21 gb.premier_league:2627:chelsea-leeds:20261121 | 1 | 0 | `4956d5a202b5abf4…` | `81cf93ba84009dbd…` |
 | 2026-11-21 gb.premier_league:2627:tottenham-ipswich:20261121 | 1 | 0 | `999762c35041920b…` | `49563604be808788…` |
 | 2026-11-21 gb.premier_league:2627:bournemouth-nottmfores:20261121 | 1 | 0 | `f396b89d42fcf4f6…` | `cc5062a2bfac790b…` |
+| 2026-11-21 gb.premier_league:2627:coventry-crystalpala:20261121 | 1 | 0 | `e7e09e3e207c0969…` | `534f568efd2dd7b9…` |
