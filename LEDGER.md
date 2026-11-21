@@ -459,3 +459,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-21 es.laliga:2627:alaves-lacoruna:20261121 | 1 | 0 | `4bd3e45c595af20e…` | `b5603d7f32fb39ba…` |
 | 2026-11-21 tr.super_lig:2627:galatasaray-samsunspor:20261121 | 1 | 0 | `7d07d674daee9ca6…` | `970a9507b1f6fcce…` |
 | 2026-11-21 es.laliga2:2627:sabadell-granada:20261121 | 1 | 0 | `2aa208774f174d89…` | `35956d370018a4d0…` |
+| 2026-11-21 tr.super_lig:2627:amed-rizespor:20261121 | 1 | 0 | `8ce6bd577675a8dd…` | `1ddb355e826d3b71…` |
