@@ -509,3 +509,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-21 ar.primera:2627:argentinosj-independient:20261120 | 1 | 0 | `a2fd0a0df363a6da…` | `374d5e18d96f5c7f…` |
 | 2026-11-21 0e71b51c-c74a-4f6b-b5f1-8a0916939920 | 0 | 1 | `03656a8f03e97053…` | `1c0e48093fcae7d9…` |
 | 2026-11-21 br.serie_a:2627:bahia-coritiba:20261121 | 1 | 0 | `437faec661b46903…` | `517c6f3f40752640…` |
+| 2026-11-21 us.mls:2627:dallas-portlandtim:20261121 | 1 | 0 | `8892053c74ad1e0a…` | `06f5cb747b1dcd02…` |
