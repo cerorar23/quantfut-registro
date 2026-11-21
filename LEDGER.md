@@ -505,3 +505,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-21 nl.eredivisie:2627:telstar-zwolle:20261121 | 1 | 0 | `9227e1713d0b6ab9…` | `16783173a8014562…` |
 | 2026-11-21 es.laliga:2627:realmadrid-celta:20261121 | 1 | 0 | `2895cdaf7112c979…` | `2d5a224c015253a5…` |
 | 2026-11-21 es.laliga2:2627:tenerife-mallorca:20261121 | 1 | 0 | `68487b44bc6b1f92…` | `ed96f36380726cc0…` |
+| 2026-11-21 nl.eredivisie:2627:groningen-heerenveen:20261121 | 1 | 0 | `36d60f47e1ed4575…` | `235802fc5b34eb99…` |
