@@ -472,3 +472,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-21 de.bundesliga:2627:unionberlin-rbleipzig:20261121 | 1 | 0 | `a8bd247d6f662176…` | `a82eb86ac0a13871…` |
 | 2026-11-21 de.bundesliga:2627:mgladbach-dortmund:20261121 | 1 | 0 | `7a04441110d7dcd9…` | `fd2af5976797046c…` |
 | 2026-11-21 de.bundesliga:2627:leverkusen-paderborn:20261121 | 1 | 0 | `79fd82705bd6274f…` | `7807bf4d9345fc00…` |
+| 2026-11-21 de.bundesliga:2627:einfrankfur-hoffenheim:20261121 | 1 | 0 | `61b97bca9ce687fc…` | `650391b6a2b73df1…` |
