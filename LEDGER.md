@@ -556,3 +556,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-22 it.serie_a:2627:atalanta-internaziona:20261122 | 1 | 0 | `844ea1bc03f31424…` | `a5be2534b3b38917…` |
 | 2026-11-22 es.laliga:2627:getafe-athmadrid:20261122 | 1 | 0 | `c3d3002c480c4dba…` | `e989328287bdd7b9…` |
 | 2026-11-22 es.laliga2:2627:burgos-albacete:20261122 | 1 | 0 | `8cbddca727b78562…` | `653fdce9713b9b82…` |
+| 2026-11-22 us.mls:2627:nashville-cincinnati:20261122 | 1 | 0 | `8657a38dbde81f70…` | `1fc57ce41da5c2fc…` |
