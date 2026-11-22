@@ -538,3 +538,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-22 de.bundesliga:2627:augsburg-mainz:20261122 | 1 | 0 | `544bab82d079671a…` | `004664ec347f6b97…` |
 | 2026-11-22 es.laliga:2627:racingsanta-sociedad:20261122 | 1 | 0 | `39129e78c88503e1…` | `de8fd0cfb3800cb9…` |
 | 2026-11-22 es.laliga2:2627:spgijon-laspalmas:20261122 | 1 | 0 | `c0d9d03e92b26216…` | `9440bbed5834cb0e…` |
+| 2026-11-22 51b03ada-edc3-4e14-a9b4-e97c5db76c7a | 0 | 1 | `fa0b38aaba55f559…` | `eec024ac3862cbe1…` |
