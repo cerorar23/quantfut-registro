@@ -533,3 +533,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-22 gb.premier_league:2627:hull-brighton:20261122 | 1 | 0 | `cea1b412721a53f7…` | `6d0b6a4f0ca6cc7f…` |
 | 2026-11-22 it.serie_a:2627:sassuolo-genoa:20261122 | 1 | 0 | `807ea33391437231…` | `6be60297879e958f…` |
 | 2026-11-22 it.serie_a:2627:bologna-udinese:20261122 | 1 | 0 | `5ea2bf4b7941f6ba…` | `376e41897fb97404…` |
+| 2026-11-22 fr.ligue_1:2627:paris-angers:20261122 | 1 | 0 | `f5237311b2e795ec…` | `5b9b6b24e0241021…` |
