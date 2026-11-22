@@ -525,3 +525,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-22 tr.super_lig:2627:konyaspor-besiktas:20261122 | 1 | 0 | `15728e8df11e22cf…` | `b9f84c3e1dce9b5b…` |
 | 2026-11-22 tr.super_lig:2627:kasmpasa-alanyaspor:20261122 | 1 | 0 | `3385e0afaeca5759…` | `5537289aa780093f…` |
 | 2026-11-22 se.allsvenskan:2627:hacken-elfsborg:20261122 | 1 | 0 | `571e9a198f75fffa…` | `258051ca6fc34d59…` |
+| 2026-11-22 es.laliga2:2627:cordoba-oviedo:20261122 | 1 | 0 | `aa10557e5c970332…` | `26ebfcaf1628fa41…` |
