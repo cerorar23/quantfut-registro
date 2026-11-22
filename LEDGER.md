@@ -535,3 +535,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-22 it.serie_a:2627:bologna-udinese:20261122 | 1 | 0 | `5ea2bf4b7941f6ba…` | `376e41897fb97404…` |
 | 2026-11-22 fr.ligue_1:2627:paris-angers:20261122 | 1 | 0 | `f5237311b2e795ec…` | `5b9b6b24e0241021…` |
 | 2026-11-22 it.serie_b:2627:avellino-mantova:20261122 | 1 | 0 | `539b921e9bfa9a2f…` | `5a3841b314ee4261…` |
+| 2026-11-22 de.bundesliga:2627:augsburg-mainz:20261122 | 1 | 0 | `544bab82d079671a…` | `004664ec347f6b97…` |
