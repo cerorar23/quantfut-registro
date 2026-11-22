@@ -516,3 +516,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-22 br.serie_a:2627:chapecoense-cruzeiro:20261122 | 1 | 0 | `50c2a26b3e86e556…` | `ad6c3f5c4e03e277…` |
 | 2026-11-22 mx.liga_mx:2627:unampumas-monterrey:20261122 | 1 | 0 | `1fa2200c991d66a7…` | `fad38100efa132e9…` |
 | 2026-11-22 mx.liga_mx:2627:tigresuanl-america:20261122 | 1 | 0 | `a7ecf58237ab628c…` | `3b4e635380c0c419…` |
+| 2026-11-22 5ac1208b-e677-402c-8043-b2d958aa3356 | 0 | 1 | `0b257be276133de6…` | `8210c030fe0af64e…` |
