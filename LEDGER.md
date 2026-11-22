@@ -541,3 +541,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-22 51b03ada-edc3-4e14-a9b4-e97c5db76c7a | 0 | 1 | `fa0b38aaba55f559…` | `eec024ac3862cbe1…` |
 | 2026-11-22 se.allsvenskan:2627:brommapojkar-halmstad:20261122 | 1 | 0 | `939e65b1d3e28317…` | `e68a710054932dac…` |
 | 2026-11-22 nl.eredivisie:2627:goaheadeag-forsittard:20261122 | 1 | 0 | `70931689501f37b4…` | `fe1f4bdf4a889376…` |
+| 2026-11-22 tr.super_lig:2627:trabzonspor-eyupspor:20261122 | 1 | 0 | `284daa724914ba86…` | `ae0433f3ae20d21c…` |
