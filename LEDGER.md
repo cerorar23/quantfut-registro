@@ -561,3 +561,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-22 ar.primera:2627:riverplate-lanus:20261120 | 1 | 0 | `a2d414b7ab1435b0…` | `cafd225b8c507ed8…` |
 | 2026-11-22 br.serie_a:2627:bragantino-vasco:20261122 | 1 | 0 | `c9c4112d23075800…` | `d6abd750df8abae7…` |
 | 2026-11-22 mx.liga_mx:2627:cruzazul-guadalajara:20261122 | 1 | 0 | `2fef8868987298e9…` | `b6951991235cd730…` |
+| 2026-11-22 us.mls:2627:chicagofire-charlotte:20261122 | 1 | 0 | `ed6669e398abc35c…` | `1b28ac88369562ae…` |
