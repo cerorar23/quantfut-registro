@@ -551,3 +551,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-22 es.laliga2:2627:girona-eibar:20261122 | 1 | 0 | `578adec22b6bcee2…` | `21bf16802d7c6c50…` |
 | 2026-11-22 es.laliga2:2627:celtadevig-valladolid:20261122 | 1 | 0 | `ce8f80f02639bbc2…` | `4edcfc17e522abac…` |
 | 2026-11-22 br.serie_a:2627:athleticopr-remo:20261122 | 1 | 0 | `c3009937d4e7d56a…` | `bf43ab8ac833837c…` |
+| 2026-11-22 ar.primera:2627:rosariocent-gimnasiamen:20261120 | 1 | 0 | `9fe2972700b04d8b…` | `20ca67f58085fd10…` |
