@@ -544,3 +544,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-22 tr.super_lig:2627:trabzonspor-eyupspor:20261122 | 1 | 0 | `284daa724914ba86…` | `ae0433f3ae20d21c…` |
 | 2026-11-22 fr.ligue_1:2627:lorient-rennes:20261122 | 1 | 0 | `680ae35821bbd303…` | `e5de3e7cc67b07aa…` |
 | 2026-11-22 it.serie_b:2627:arezzo-padova:20261122 | 1 | 0 | `20b512db9e85af0c…` | `a15719f27438e672…` |
+| 2026-11-22 gb.premier_league:2627:liverpool-manchesteru:20261122 | 1 | 0 | `3af2aa53713543da…` | `aa3453330d08beb6…` |
