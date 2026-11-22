@@ -518,3 +518,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-22 mx.liga_mx:2627:tigresuanl-america:20261122 | 1 | 0 | `a7ecf58237ab628c…` | `3b4e635380c0c419…` |
 | 2026-11-22 5ac1208b-e677-402c-8043-b2d958aa3356 | 0 | 1 | `0b257be276133de6…` | `8210c030fe0af64e…` |
 | 2026-11-22 | 46 | 0 | `9c40e422ab16ae74…` | `4cbbb5ea5634197d…` |
+| 2026-11-22 tr.super_lig:2627:erzurumspor-goztepe:20261122 | 1 | 0 | `281894e82d734a3b…` | `a70744fc8ca8f01e…` |
