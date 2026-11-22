@@ -519,3 +519,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-22 5ac1208b-e677-402c-8043-b2d958aa3356 | 0 | 1 | `0b257be276133de6…` | `8210c030fe0af64e…` |
 | 2026-11-22 | 46 | 0 | `9c40e422ab16ae74…` | `4cbbb5ea5634197d…` |
 | 2026-11-22 tr.super_lig:2627:erzurumspor-goztepe:20261122 | 1 | 0 | `281894e82d734a3b…` | `a70744fc8ca8f01e…` |
+| 2026-11-22 nl.eredivisie:2627:twente-willemii:20261122 | 1 | 0 | `d586a7b2f3582da4…` | `26c2294ef90f6345…` |
