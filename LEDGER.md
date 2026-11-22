@@ -549,3 +549,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-22 it.serie_a:2627:milan-frosinone:20261122 | 1 | 0 | `860b75f18d35c1c0…` | `9a5592da247567ef…` |
 | 2026-11-22 es.laliga:2627:osasuna-malaga:20261122 | 1 | 0 | `09491ec94b376633…` | `ea1f484e63f19c99…` |
 | 2026-11-22 es.laliga2:2627:girona-eibar:20261122 | 1 | 0 | `578adec22b6bcee2…` | `21bf16802d7c6c50…` |
+| 2026-11-22 es.laliga2:2627:celtadevig-valladolid:20261122 | 1 | 0 | `ce8f80f02639bbc2…` | `4edcfc17e522abac…` |
