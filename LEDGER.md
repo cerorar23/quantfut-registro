@@ -521,3 +521,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-22 tr.super_lig:2627:erzurumspor-goztepe:20261122 | 1 | 0 | `281894e82d734a3b…` | `a70744fc8ca8f01e…` |
 | 2026-11-22 nl.eredivisie:2627:twente-willemii:20261122 | 1 | 0 | `d586a7b2f3582da4…` | `26c2294ef90f6345…` |
 | 2026-11-22 it.serie_a:2627:juventus-venezia:20261122 | 1 | 0 | `4585de9a04b92acc…` | `d70954a34090ec9a…` |
+| 2026-11-22 es.laliga:2627:barcelona-villarreal:20261122 | 1 | 0 | `1a40afbe2d039818…` | `0eb7b2b0f817e856…` |
