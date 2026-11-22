@@ -531,3 +531,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-22 nl.eredivisie:2627:ajax-denhaag:20261122 | 1 | 0 | `20b4c98f433ecace…` | `5f9e5887d88e39df…` |
 | 2026-11-22 nl.eredivisie:2627:spartarotte-azalkmaar:20261122 | 1 | 0 | `8a6393169a993ded…` | `842a97426f15e6f5…` |
 | 2026-11-22 gb.premier_league:2627:hull-brighton:20261122 | 1 | 0 | `cea1b412721a53f7…` | `6d0b6a4f0ca6cc7f…` |
+| 2026-11-22 it.serie_a:2627:sassuolo-genoa:20261122 | 1 | 0 | `807ea33391437231…` | `6be60297879e958f…` |
