@@ -554,3 +554,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-22 ar.primera:2627:rosariocent-gimnasiamen:20261120 | 1 | 0 | `9fe2972700b04d8b…` | `20ca67f58085fd10…` |
 | 2026-11-22 fr.ligue_1:2627:marseille-lemans:20261122 | 1 | 0 | `0e05b865d2f6540a…` | `7617a22613b6483d…` |
 | 2026-11-22 it.serie_a:2627:atalanta-internaziona:20261122 | 1 | 0 | `844ea1bc03f31424…` | `a5be2534b3b38917…` |
+| 2026-11-22 es.laliga:2627:getafe-athmadrid:20261122 | 1 | 0 | `c3d3002c480c4dba…` | `e989328287bdd7b9…` |
