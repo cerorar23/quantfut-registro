@@ -547,3 +547,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-22 gb.premier_league:2627:liverpool-manchesteru:20261122 | 1 | 0 | `3af2aa53713543da…` | `aa3453330d08beb6…` |
 | 2026-11-22 de.bundesliga:2627:werderbreme-hamburg:20261122 | 1 | 0 | `2817b4ba02274c71…` | `ada223eb5c80de3e…` |
 | 2026-11-22 it.serie_a:2627:milan-frosinone:20261122 | 1 | 0 | `860b75f18d35c1c0…` | `9a5592da247567ef…` |
+| 2026-11-22 es.laliga:2627:osasuna-malaga:20261122 | 1 | 0 | `09491ec94b376633…` | `ea1f484e63f19c99…` |
