@@ -558,3 +558,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-22 es.laliga2:2627:burgos-albacete:20261122 | 1 | 0 | `8cbddca727b78562…` | `653fdce9713b9b82…` |
 | 2026-11-22 us.mls:2627:nashville-cincinnati:20261122 | 1 | 0 | `8657a38dbde81f70…` | `1fc57ce41da5c2fc…` |
 | 2026-11-22 br.serie_a:2627:fluminense-mirassol:20261122 | 1 | 0 | `fcc04066be0033fe…` | `d741614685459194…` |
+| 2026-11-22 ar.primera:2627:riverplate-lanus:20261120 | 1 | 0 | `a2d414b7ab1435b0…` | `cafd225b8c507ed8…` |
