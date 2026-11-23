@@ -573,3 +573,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-23 it.serie_a:2627:monza-fiorentina:20261123 | 1 | 0 | `0d01f57e62107d43…` | `89e2ab47dd6e4f34…` |
 | 2026-11-23 gb.premier_league:2627:brentford-everton:20261123 | 1 | 0 | `4749dd5dfb6812ed…` | `ab57acc40d90b6af…` |
 | 2026-11-23 es.laliga:2627:levante-elche:20261123 | 1 | 0 | `14a3cb86156f5d49…` | `457a148c43a97867…` |
+| 2026-11-23 ar.primera:2627:gimnasialp-newellsold:20261120 | 1 | 0 | `673d9712483c992d…` | `42db581a4f990b24…` |
