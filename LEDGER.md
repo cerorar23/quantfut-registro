@@ -575,3 +575,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-23 es.laliga:2627:levante-elche:20261123 | 1 | 0 | `14a3cb86156f5d49…` | `457a148c43a97867…` |
 | 2026-11-23 ar.primera:2627:gimnasialp-newellsold:20261120 | 1 | 0 | `673d9712483c992d…` | `42db581a4f990b24…` |
 | 2026-11-23 br.serie_a:2627:internaciona-vitoria:20261123 | 1 | 0 | `4af17048ef29e7ad…` | `60cd124f2ac680a5…` |
+| 2026-11-23 br.serie_a:2627:botafogorj-saopaulo:20261123 | 1 | 0 | `1cc118f1bd3fbcca…` | `8280a8a59d3edc14…` |
