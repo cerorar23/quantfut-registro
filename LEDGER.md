@@ -566,3 +566,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-23 mx.liga_mx:2627:queretaro-necaxa:20261123 | 1 | 0 | `8e4ee0e432a1f022…` | `0252bc0ae518666f…` |
 | 2026-11-23 us.mls:2627:vancouverwh-realsaltla:20261123 | 1 | 0 | `f0fd99545cb607b4…` | `ba932eabf18fa72c…` |
 | 2026-11-23 | 11 | 0 | `6217b27d190972e7…` | `30478562a4de6620…` |
+| 2026-11-23 tr.super_lig:2627:basaksehir-corumfk:20261123 | 1 | 0 | `dda4621a7cf7b22e…` | `dc94d39327829d73…` |
