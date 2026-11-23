@@ -568,3 +568,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-23 | 11 | 0 | `6217b27d190972e7…` | `30478562a4de6620…` |
 | 2026-11-23 tr.super_lig:2627:basaksehir-corumfk:20261123 | 1 | 0 | `dda4621a7cf7b22e…` | `dc94d39327829d73…` |
 | 2026-11-23 se.allsvenskan:2627:hammarbyff-ifkgoteborg:20261123 | 1 | 0 | `56f6950cc9a7db6b…` | `4bdc9b17c033e8e4…` |
+| 2026-11-23 se.allsvenskan:2627:orgryteis-kalmarff:20261123 | 1 | 0 | `d648ad4a0788b027…` | `bba177ef673b6134…` |
