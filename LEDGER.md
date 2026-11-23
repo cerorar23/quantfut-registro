@@ -564,3 +564,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-22 us.mls:2627:chicagofire-charlotte:20261122 | 1 | 0 | `ed6669e398abc35c…` | `1b28ac88369562ae…` |
 | 2026-11-23 ar.primera:2627:instituto-huracan:20261120 | 1 | 0 | `c6d6c9fd10a1e672…` | `87bde1204b43e6d2…` |
 | 2026-11-23 mx.liga_mx:2627:queretaro-necaxa:20261123 | 1 | 0 | `8e4ee0e432a1f022…` | `0252bc0ae518666f…` |
+| 2026-11-23 us.mls:2627:vancouverwh-realsaltla:20261123 | 1 | 0 | `f0fd99545cb607b4…` | `ba932eabf18fa72c…` |
