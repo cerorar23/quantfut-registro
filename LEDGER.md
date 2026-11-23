@@ -567,3 +567,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-23 us.mls:2627:vancouverwh-realsaltla:20261123 | 1 | 0 | `f0fd99545cb607b4…` | `ba932eabf18fa72c…` |
 | 2026-11-23 | 11 | 0 | `6217b27d190972e7…` | `30478562a4de6620…` |
 | 2026-11-23 tr.super_lig:2627:basaksehir-corumfk:20261123 | 1 | 0 | `dda4621a7cf7b22e…` | `dc94d39327829d73…` |
+| 2026-11-23 se.allsvenskan:2627:hammarbyff-ifkgoteborg:20261123 | 1 | 0 | `56f6950cc9a7db6b…` | `4bdc9b17c033e8e4…` |
