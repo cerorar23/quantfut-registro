@@ -577,3 +577,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-23 br.serie_a:2627:internaciona-vitoria:20261123 | 1 | 0 | `4af17048ef29e7ad…` | `60cd124f2ac680a5…` |
 | 2026-11-23 br.serie_a:2627:botafogorj-saopaulo:20261123 | 1 | 0 | `1cc118f1bd3fbcca…` | `8280a8a59d3edc14…` |
 | 2026-11-24 us.mls:2627:stlouiscit-losangeles:20261124 | 1 | 0 | `174352c1934543ae…` | `d50dcfba385925e1…` |
+| 2026-11-24 | 14 | 0 | `929f0b0a276bd679…` | `123739950e4bee52…` |
