@@ -585,3 +585,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-24 it.serie_b:2627:cesena-ascoli:20261124 | 1 | 0 | `19b5117663978af1…` | `8b4b11bf75c30792…` |
 | 2026-11-24 it.serie_b:2627:virtusentel-verona:20261124 | 1 | 0 | `acb6665494f896f7…` | `75c117c5c54e62e7…` |
 | 2026-11-24 it.serie_b:2627:benevento-empoli:20261124 | 1 | 0 | `44f22b9defbaa584…` | `988a21b398a94851…` |
+| 2026-11-24 eu.ucl:2627:feyenoord-porto:20261124 | 1 | 0 | `3562ec7514b263f0…` | `05075c596de8395b…` |
