@@ -589,3 +589,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-24 eu.ucl:2627:arsenal-dortmund:20261124 | 1 | 0 | `9cb5b5f5d0dd4fa5…` | `79d6a23a76bea54f…` |
 | 2026-11-24 eu.ucl:2627:rbleipzig-lens:20261124 | 1 | 0 | `6722f3ff84b76b19…` | `7e0232469bee59eb…` |
 | 2026-11-24 eu.ucl:2627:realmadrid-psveindhove:20261124 | 1 | 0 | `a4c4c21a3d99a902…` | `9827d0457e08f162…` |
+| 2026-11-24 eu.ucl:2627:manchesterc-napoli:20261124 | 1 | 0 | `36f9121534de9c90…` | `ea5949fcd7053990…` |
