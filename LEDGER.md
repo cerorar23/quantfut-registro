@@ -590,3 +590,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-24 eu.ucl:2627:rbleipzig-lens:20261124 | 1 | 0 | `6722f3ff84b76b19…` | `7e0232469bee59eb…` |
 | 2026-11-24 eu.ucl:2627:realmadrid-psveindhove:20261124 | 1 | 0 | `a4c4c21a3d99a902…` | `9827d0457e08f162…` |
 | 2026-11-24 eu.ucl:2627:manchesterc-napoli:20261124 | 1 | 0 | `36f9121534de9c90…` | `ea5949fcd7053990…` |
+| 2026-11-24 br.serie_a:2627:chapecoense-palmeiras:20261124 | 1 | 0 | `c51ad6a54fe1dd25…` | `7f5b145f5c163166…` |
