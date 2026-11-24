@@ -581,3 +581,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-24 eu.ucl:2627:galatasaray-astonvilla:20261124 | 1 | 0 | `c36bd97a203bd087…` | `5a962b833865fba2…` |
 | 2026-11-24 it.serie_b:2627:juvestabia-catanzaro:20261124 | 1 | 0 | `8b77fe95b709dc6c…` | `a2815cfe749873f2…` |
 | 2026-11-24 it.serie_b:2627:palermo-sudtirol:20261124 | 1 | 0 | `f4a927a0ccc9003b…` | `59c646e6936decb1…` |
+| 2026-11-24 it.serie_b:2627:vicenzavirt-carrarese:20261124 | 1 | 0 | `49dd236d06a6d92f…` | `9388b0c01b6e124d…` |
