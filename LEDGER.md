@@ -592,3 +592,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-24 eu.ucl:2627:manchesterc-napoli:20261124 | 1 | 0 | `36f9121534de9c90…` | `ea5949fcd7053990…` |
 | 2026-11-24 br.serie_a:2627:chapecoense-palmeiras:20261124 | 1 | 0 | `c51ad6a54fe1dd25…` | `7f5b145f5c163166…` |
 | 2026-11-25 us.mls:2627:sanjoseear-houstondyna:20261125 | 1 | 0 | `90c452267a1962f3…` | `64876d7cc075783b…` |
+| 2026-11-25 | 10 | 0 | `dbcb647e5efe7d7d…` | `3d9639b16c35ca8d…` |
