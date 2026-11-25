@@ -601,3 +601,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-25 eu.ucl:2627:internaziona-stuttgart:20261125 | 1 | 0 | `afd87cbbb38a0e80…` | `912b0c70eac3bd87…` |
 | 2026-11-25 eu.ucl:2627:parissg-roma:20261125 | 1 | 0 | `5a9ea03f0a614072…` | `9766ee32ab2a1d70…` |
 | 2026-11-25 eu.ucl:2627:splisbon-manchesteru:20261125 | 1 | 0 | `3226bd6ec13145e6…` | `6c3df470eb7e0551…` |
+| 2026-11-25 eu.ucl:2627:lille-bayernmunic:20261125 | 1 | 0 | `b4906abbdf359950…` | `693f52629662cd8d…` |
