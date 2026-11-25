@@ -597,3 +597,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-25 it.serie_b:2627:cremonese-avellino:20261125 | 1 | 0 | `84242b778c4bf6bb…` | `cbd566b134f35869…` |
 | 2026-11-25 it.serie_b:2627:mantova-arezzo:20261125 | 1 | 0 | `52bf3ccc40e767f8…` | `5993095a82a2a2e9…` |
 | 2026-11-25 it.serie_b:2627:padova-sampdoria:20261125 | 1 | 0 | `242b5ab6af7f1997…` | `621508d064655b7b…` |
+| 2026-11-25 it.serie_b:2627:pisa-modena:20261125 | 1 | 0 | `d33f18f5c4b4dfe6…` | `c06b3c4a946899c7…` |
