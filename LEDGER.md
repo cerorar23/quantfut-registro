@@ -599,3 +599,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-25 it.serie_b:2627:padova-sampdoria:20261125 | 1 | 0 | `242b5ab6af7f1997…` | `621508d064655b7b…` |
 | 2026-11-25 it.serie_b:2627:pisa-modena:20261125 | 1 | 0 | `d33f18f5c4b4dfe6…` | `c06b3c4a946899c7…` |
 | 2026-11-25 eu.ucl:2627:internaziona-stuttgart:20261125 | 1 | 0 | `afd87cbbb38a0e80…` | `912b0c70eac3bd87…` |
+| 2026-11-25 eu.ucl:2627:parissg-roma:20261125 | 1 | 0 | `5a9ea03f0a614072…` | `9766ee32ab2a1d70…` |
