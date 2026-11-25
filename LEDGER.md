@@ -595,3 +595,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-25 | 10 | 0 | `dbcb647e5efe7d7d…` | `3d9639b16c35ca8d…` |
 | 2026-11-25 1d477098-ea7d-47de-b8ac-180d362026f4 | 0 | 1 | `7585d2f2047d5fea…` | `a062d1ed8dd6b3c3…` |
 | 2026-11-25 it.serie_b:2627:cremonese-avellino:20261125 | 1 | 0 | `84242b778c4bf6bb…` | `cbd566b134f35869…` |
+| 2026-11-25 it.serie_b:2627:mantova-arezzo:20261125 | 1 | 0 | `52bf3ccc40e767f8…` | `5993095a82a2a2e9…` |
