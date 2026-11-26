@@ -604,3 +604,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-25 eu.ucl:2627:lille-bayernmunic:20261125 | 1 | 0 | `b4906abbdf359950…` | `693f52629662cd8d…` |
 | 2026-11-25 br.serie_a:2627:atleticomg-corinthians:20261125 | 1 | 0 | `ef2fabf94f2923c8…` | `ec74b7de457ab9db…` |
 | 2026-11-26 ar.primera:2627:bocajuniors-indrivadavi:20261120 | 1 | 0 | `2df411d23b0e3b16…` | `740c2c3f5e486952…` |
+| 2026-11-26 | 4 | 0 | `ab5fc2eda993f922…` | `5a882962ddc7a455…` |
