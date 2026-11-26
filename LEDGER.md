@@ -606,3 +606,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-26 ar.primera:2627:bocajuniors-indrivadavi:20261120 | 1 | 0 | `2df411d23b0e3b16…` | `740c2c3f5e486952…` |
 | 2026-11-26 | 4 | 0 | `ab5fc2eda993f922…` | `5a882962ddc7a455…` |
 | 2026-11-26 81346b0d-55ed-42af-be42-ab114900922b | 0 | 1 | `689550804ae52308…` | `55ac3d00d8bd8b72…` |
+| 2026-11-26 eu.uel:2627:celta-bournemouth:20261126 | 1 | 0 | `c3c646d8814bd2a1…` | `f358f547d526df79…` |
