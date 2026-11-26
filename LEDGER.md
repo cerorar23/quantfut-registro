@@ -608,3 +608,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-26 81346b0d-55ed-42af-be42-ab114900922b | 0 | 1 | `689550804ae52308…` | `55ac3d00d8bd8b72…` |
 | 2026-11-26 eu.uel:2627:celta-bournemouth:20261126 | 1 | 0 | `c3c646d8814bd2a1…` | `f358f547d526df79…` |
 | 2026-11-26 eu.uel:2627:crystalpala-sociedad:20261126 | 1 | 0 | `312ef9d2cf9ec46a…` | `435d5ff5356952d3…` |
+| 2026-11-26 eu.uel:2627:nijmegen-rennes:20261126 | 1 | 0 | `da1ecf7c7e8400cd…` | `bdf2df42a5955e54…` |
