@@ -625,3 +625,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-27 pt.primeira:2627:maritimo-nacional:20261127 | 1 | 0 | `154ba764dbecaf3a…` | `f3053481c9a95b22…` |
 | 2026-11-27 br.serie_a:2627:fluminense-cruzeiro:20261127 | 1 | 0 | `6c2110617ce69650…` | `6f2453489aef3877…` |
 | 2026-11-28 mx.liga_mx:2627:leon-cruzazul:20261128 | 1 | 0 | `ad476d4c712b5418…` | `b2f262991398c1f5…` |
+| 2026-11-28 mx.liga_mx:2627:monterrey-america:20261128 | 1 | 0 | `b9702e7c4d36d815…` | `3d42d1a6d35f75dd…` |
