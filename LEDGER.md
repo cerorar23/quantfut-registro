@@ -614,3 +614,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-27 7c137f72-b963-4b84-ae96-2fdb92ede9c7 | 0 | 1 | `405df57510ed13b4…` | `f4e550cac66e6fcd…` |
 | 2026-11-27 tr.super_lig:2627:alanyaspor-konyaspor:20261127 | 1 | 0 | `7155e27c7c539138…` | `176f6a34ddbfa825…` |
 | 2026-11-27 tr.super_lig:2627:rizespor-kasmpasa:20261127 | 1 | 0 | `7ee1b495d80212b8…` | `e7d2d0dd5a94caa7…` |
+| 2026-11-27 tr.super_lig:2627:antalyaspor-konyaspor:20261127 | 1 | 0 | `3ba10d7819d8595e…` | `0891d59bc4c17bad…` |
