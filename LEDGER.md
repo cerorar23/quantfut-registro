@@ -621,3 +621,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-27 it.serie_a:2627:venezia-bologna:20261127 | 1 | 0 | `fc42458a47ebc75b…` | `b1875829655bc134…` |
 | 2026-11-27 fr.ligue_1:2627:brest-paris:20261127 | 1 | 0 | `c328df5f166cdfcb…` | `3d906e4d80e1757c…` |
 | 2026-11-27 gb.premier_league:2627:nottmfores-chelsea:20261127 | 1 | 0 | `64b8f9a73a52eb4c…` | `64d1bba06774600f…` |
+| 2026-11-27 es.laliga:2627:levante-racingsanta:20261127 | 1 | 0 | `121a5646950c956f…` | `42fdcc463a631259…` |
