@@ -619,3 +619,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-27 de.bundesliga:2627:werderbreme-mgladbach:20261127 | 1 | 0 | `92f7dd2261530658…` | `f770e681561db60c…` |
 | 2026-11-27 es.laliga2:2627:leganes-sabadell:20261127 | 1 | 0 | `2f460cfc0106c0ce…` | `32cbcf5572ac301c…` |
 | 2026-11-27 it.serie_a:2627:venezia-bologna:20261127 | 1 | 0 | `fc42458a47ebc75b…` | `b1875829655bc134…` |
+| 2026-11-27 fr.ligue_1:2627:brest-paris:20261127 | 1 | 0 | `c328df5f166cdfcb…` | `3d906e4d80e1757c…` |
