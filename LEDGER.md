@@ -612,3 +612,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-26 br.serie_a:2627:saopaulo-remo:20261126 | 1 | 0 | `699633af7914e8ad…` | `5d8a0538cc81d573…` |
 | 2026-11-27 | 14 | 0 | `6b5c95346772cc9a…` | `621d4b0c06b757e9…` |
 | 2026-11-27 7c137f72-b963-4b84-ae96-2fdb92ede9c7 | 0 | 1 | `405df57510ed13b4…` | `f4e550cac66e6fcd…` |
+| 2026-11-27 tr.super_lig:2627:alanyaspor-konyaspor:20261127 | 1 | 0 | `7155e27c7c539138…` | `176f6a34ddbfa825…` |
