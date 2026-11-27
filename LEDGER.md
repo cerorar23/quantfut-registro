@@ -623,3 +623,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-27 gb.premier_league:2627:nottmfores-chelsea:20261127 | 1 | 0 | `64b8f9a73a52eb4c…` | `64d1bba06774600f…` |
 | 2026-11-27 es.laliga:2627:levante-racingsanta:20261127 | 1 | 0 | `121a5646950c956f…` | `42fdcc463a631259…` |
 | 2026-11-27 pt.primeira:2627:maritimo-nacional:20261127 | 1 | 0 | `154ba764dbecaf3a…` | `f3053481c9a95b22…` |
+| 2026-11-27 br.serie_a:2627:fluminense-cruzeiro:20261127 | 1 | 0 | `6c2110617ce69650…` | `6f2453489aef3877…` |
