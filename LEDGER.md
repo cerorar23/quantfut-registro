@@ -610,3 +610,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-26 eu.uel:2627:crystalpala-sociedad:20261126 | 1 | 0 | `312ef9d2cf9ec46a…` | `435d5ff5356952d3…` |
 | 2026-11-26 eu.uel:2627:nijmegen-rennes:20261126 | 1 | 0 | `da1ecf7c7e8400cd…` | `bdf2df42a5955e54…` |
 | 2026-11-26 br.serie_a:2627:saopaulo-remo:20261126 | 1 | 0 | `699633af7914e8ad…` | `5d8a0538cc81d573…` |
+| 2026-11-27 | 14 | 0 | `6b5c95346772cc9a…` | `621d4b0c06b757e9…` |
