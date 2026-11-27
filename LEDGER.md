@@ -617,3 +617,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-27 tr.super_lig:2627:antalyaspor-konyaspor:20261127 | 1 | 0 | `3ba10d7819d8595e…` | `0891d59bc4c17bad…` |
 | 2026-11-27 nl.eredivisie:2627:groningen-willemii:20261127 | 1 | 0 | `63302207a247c85d…` | `77705bd0f53a9f4b…` |
 | 2026-11-27 de.bundesliga:2627:werderbreme-mgladbach:20261127 | 1 | 0 | `92f7dd2261530658…` | `f770e681561db60c…` |
+| 2026-11-27 es.laliga2:2627:leganes-sabadell:20261127 | 1 | 0 | `2f460cfc0106c0ce…` | `32cbcf5572ac301c…` |
