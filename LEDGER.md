@@ -652,3 +652,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-28 gb.premier_league:2627:ipswich-astonvilla:20261128 | 1 | 0 | `9e5685a869cfccd8…` | `075cd35d38479705…` |
 | 2026-11-28 de.bundesliga:2627:stuttgart-einfrankfur:20261128 | 1 | 0 | `d686923f382b4b83…` | `e19f4305e9a9a000…` |
 | 2026-11-28 es.laliga:2627:elche-athmadrid:20261128 | 1 | 0 | `d9a6d62a9357f314…` | `19f22907c794c983…` |
+| 2026-11-28 es.laliga2:2627:eibar-burgos:20261128 | 1 | 0 | `90e74fd67017f6ae…` | `31594487f9a248f2…` |
