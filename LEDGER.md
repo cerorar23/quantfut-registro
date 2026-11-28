@@ -655,3 +655,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-28 es.laliga2:2627:eibar-burgos:20261128 | 1 | 0 | `90e74fd67017f6ae…` | `31594487f9a248f2…` |
 | 2026-11-28 nl.eredivisie:2627:psveindhove-goaheadeag:20261128 | 1 | 0 | `721a036abff1def7…` | `c7865ea6210a4298…` |
 | 2026-11-28 pt.primeira:2627:academicovi-alverca:20261128 | 1 | 0 | `c6956f890fecf7e0…` | `a43a879558d0afe4…` |
+| 2026-11-28 it.serie_b:2627:palermo-benevento:20261128 | 1 | 0 | `d9fb9640ee2db394…` | `fa126c8174c44f24…` |
