@@ -644,3 +644,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-28 es.laliga2:2627:eldense-girona:20261128 | 1 | 0 | `7422d2245495054c…` | `f36dfd5e23ecdf23…` |
 | 2026-11-28 es.laliga2:2627:albacete-tenerife:20261128 | 1 | 0 | `04a9991fffef7484…` | `05217c3bbd2f2262…` |
 | 2026-11-28 pt.primeira:2627:arouca-rioave:20261128 | 1 | 0 | `7f1ef31c38308e3a…` | `1487ee5d3355dda8…` |
+| 2026-11-28 pt.primeira:2627:moreirense-santaclara:20261128 | 1 | 0 | `c07a634b0194d825…` | `3bfc267093c640fb…` |
