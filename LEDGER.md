@@ -629,3 +629,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-28 | 42 | 0 | `aee372b88320f31a…` | `9103303f59859687…` |
 | 2026-11-28 es.laliga:2627:betis-vallecano:20261128 | 1 | 0 | `ac754795d6329411…` | `ef2bcb7a2cea76d3…` |
 | 2026-11-28 es.laliga2:2627:laspalmas-andorra:20261128 | 1 | 0 | `18a2cb3ac291a8c2…` | `9cf4c6455f46308c…` |
+| 2026-11-28 tr.super_lig:2627:samsunspor-genclerbirli:20261128 | 1 | 0 | `05fa8468d664e9e6…` | `56593ff04bcf022d…` |
