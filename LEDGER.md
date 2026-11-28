@@ -632,3 +632,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-28 tr.super_lig:2627:samsunspor-genclerbirli:20261128 | 1 | 0 | `05fa8468d664e9e6…` | `56593ff04bcf022d…` |
 | 2026-11-28 it.serie_a:2627:frosinone-parma:20261128 | 1 | 0 | `61393be8d0df3625…` | `67cedc7f740b3209…` |
 | 2026-11-28 it.serie_b:2627:ascoli-virtusentel:20261128 | 1 | 0 | `a7114ec3f68a04b8…` | `576443af4a715ef1…` |
+| 2026-11-28 it.serie_b:2627:carrarese-juvestabia:20261128 | 1 | 0 | `6e7e162a193250d3…` | `f6e3f47ce428a0ef…` |
