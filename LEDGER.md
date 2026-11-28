@@ -636,3 +636,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-28 it.serie_b:2627:empoli-verona:20261128 | 1 | 0 | `10712e4a0ecbacfc…` | `59abe639acb007e4…` |
 | 2026-11-28 de.bundesliga:2627:mainz-unionberlin:20261128 | 1 | 0 | `4b1531409d8c3d20…` | `3609be4561d59f8f…` |
 | 2026-11-28 de.bundesliga:2627:paderborn-schalke04:20261128 | 1 | 0 | `d07722828288a244…` | `fc354f25ddf5daf9…` |
+| 2026-11-28 de.bundesliga:2627:koln-elversberg:20261128 | 1 | 0 | `23e5b93e02620ee0…` | `99b32eaf0ce1dfbd…` |
