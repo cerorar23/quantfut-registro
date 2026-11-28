@@ -648,3 +648,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-28 nl.eredivisie:2627:excelsior-telstar:20261128 | 1 | 0 | `4caf59b5824ad1f0…` | `8ec26816fb6a5ff4…` |
 | 2026-11-28 fr.ligue_1:2627:angers-lens:20261128 | 1 | 0 | `b204a0d9f2f466ea…` | `c53318588874ff10…` |
 | 2026-11-28 it.serie_b:2627:vicenzavirt-cesena:20261128 | 1 | 0 | `8103f2ac676198df…` | `521cbefd66c988a5…` |
+| 2026-11-28 it.serie_a:2627:torino-lazio:20261128 | 1 | 0 | `017e1c27d294d45a…` | `f8d78501ecb5b940…` |
