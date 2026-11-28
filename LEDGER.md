@@ -649,3 +649,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-28 fr.ligue_1:2627:angers-lens:20261128 | 1 | 0 | `b204a0d9f2f466ea…` | `c53318588874ff10…` |
 | 2026-11-28 it.serie_b:2627:vicenzavirt-cesena:20261128 | 1 | 0 | `8103f2ac676198df…` | `521cbefd66c988a5…` |
 | 2026-11-28 it.serie_a:2627:torino-lazio:20261128 | 1 | 0 | `017e1c27d294d45a…` | `f8d78501ecb5b940…` |
+| 2026-11-28 gb.premier_league:2627:ipswich-astonvilla:20261128 | 1 | 0 | `9e5685a869cfccd8…` | `075cd35d38479705…` |
