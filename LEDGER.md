@@ -646,3 +646,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-28 pt.primeira:2627:arouca-rioave:20261128 | 1 | 0 | `7f1ef31c38308e3a…` | `1487ee5d3355dda8…` |
 | 2026-11-28 pt.primeira:2627:moreirense-santaclara:20261128 | 1 | 0 | `c07a634b0194d825…` | `3bfc267093c640fb…` |
 | 2026-11-28 nl.eredivisie:2627:excelsior-telstar:20261128 | 1 | 0 | `4caf59b5824ad1f0…` | `8ec26816fb6a5ff4…` |
+| 2026-11-28 fr.ligue_1:2627:angers-lens:20261128 | 1 | 0 | `b204a0d9f2f466ea…` | `c53318588874ff10…` |
