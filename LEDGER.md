@@ -633,3 +633,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-28 it.serie_a:2627:frosinone-parma:20261128 | 1 | 0 | `61393be8d0df3625…` | `67cedc7f740b3209…` |
 | 2026-11-28 it.serie_b:2627:ascoli-virtusentel:20261128 | 1 | 0 | `a7114ec3f68a04b8…` | `576443af4a715ef1…` |
 | 2026-11-28 it.serie_b:2627:carrarese-juvestabia:20261128 | 1 | 0 | `6e7e162a193250d3…` | `f6e3f47ce428a0ef…` |
+| 2026-11-28 it.serie_b:2627:empoli-verona:20261128 | 1 | 0 | `10712e4a0ecbacfc…` | `59abe639acb007e4…` |
