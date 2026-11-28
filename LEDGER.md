@@ -640,3 +640,4 @@ Verificar: `python -m qf.publish.hashchain verify`
 | 2026-11-28 de.bundesliga:2627:hamburg-bayernmunic:20261128 | 1 | 0 | `8016ce8c7f1c3606…` | `4bc46a0b85c37a68…` |
 | 2026-11-28 gb.premier_league:2627:leeds-coventry:20261128 | 1 | 0 | `3126a91451041708…` | `cb7c7cc1fdc8e1e1…` |
 | 2026-11-28 gb.premier_league:2627:manchesteru-brentford:20261128 | 1 | 0 | `e8cc9650d0e4fc85…` | `e8e8fc9489d1f76f…` |
+| 2026-11-28 es.laliga:2627:malaga-athbilbao:20261128 | 1 | 0 | `344ca7eeaef87cce…` | `31b04fb4e0cd32ee…` |
